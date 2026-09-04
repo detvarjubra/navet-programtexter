@@ -13,12 +13,16 @@ import re
 import sys
 
 import requests
+import urllib3
 
 try:
     from dotenv import load_dotenv
     load_dotenv()
 except ImportError:
     pass
+
+# Expo API uses a self-signed certificate, same as navet-info-display collectors.
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 API_URL = "https://booking.navet.com/api/v3/graphql"
 API_TOKEN = os.environ.get("API_TOKEN", "")
@@ -95,6 +99,7 @@ def fetch_programs():
             headers=headers,
             json={"query": GET_PROGRAMS_QUERY, "variables": {"after": after}},
             timeout=30,
+            verify=False,
         )
         response.raise_for_status()
         payload = response.json()

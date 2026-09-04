@@ -1,0 +1,25 @@
+---
+program_id: 7
+offer_id: 7
+slug: "traffa-skelettet-benny"
+color: "#FF5050"
+status: "Ej påbörjad"
+ansvarig: ""
+---
+
+# Träffa skelettet Benny
+
+## Nuvarande text
+
+Träffa skelettet Benny är ett spännande och lärorikt skolprogram där eleverna får möjlighet att utforska människokroppens mysterier på ett engagerande och interaktivt sätt. Programmet är utformat för att väcka nyfikenhet och ge en djupare förståelse för hur vår kropp fungerar.
+
+Under programmet får eleverna träffa _Benny_, ett livligt och pedagogiskt skelett, som leder dem genom en upptäcktsresa där de lär sig om skelettets uppbyggnad och funktion. Tillsammans med Benny får eleverna förstå hur skelettet stödjer kroppen, skyddar viktiga organ och möjliggör rörelse. De får även lära sig om några av de organ som Benny saknar.
+
+Därefter fortsätter äventyret i Navets avdelning om människokroppen. Här får eleverna möjlighet att interagera med en rad experiment och aktiviteter som belyser människokroppens fascinerande funktioner. Skolprogrammet avslutas med en gemensam aktivitet.
+
+Det pedagogledda programmet är 60 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
+
+## Ny text
+
+
+## Kommentarer

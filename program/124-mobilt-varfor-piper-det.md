@@ -1,0 +1,25 @@
+---
+program_id: 124
+offer_id: 124
+slug: "mobilt-varfor-piper-det"
+color: "#FFFF00"
+status: "Ej påbörjad"
+ansvarig: ""
+---
+
+# MOBILT Varför piper det?
+
+## Nuvarande text
+
+Lär er mer om styr- och reglersystem!
+
+Varför blinkar en varningslampa och låter det när bilbältet inte är fastspänt? Varför börjar det pipa när kylskåpsdörren lämnas öppen? Det handlar om teknik – elektriska kretsar, sensorer, programmering samt styr- och reglersystem.
+
+I det här projektet bygger vi ett eget alarmsystem. Med hjälp av en micro:bit programmerar vi ett system som larmar med både ljus och ljud när till ex kylskåpsdörren inte är stängd eller bältet inte fastspänt. 
+
+Vi på Navet försöker träffa så många som möjligt, så vi vill gärna att ni bokar minst tre klasser efter varandra samma dag när vi kommer till er. Tiden för varje klass är 60 minuter.
+
+## Ny text
+
+
+## Kommentarer

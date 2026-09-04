@@ -1,15 +1,21 @@
 ---
-program_id: 1
-offer_id: 1
-slug: "manen-solen-och-stjarnorna"
-color: "#6a8fff"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 1
+titel: "Månen, solen och stjärnorna"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Månen, solen och stjärnorna
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
 
 Skolprogrammet _Månen, solen och stjärnorna_ väcker nyfikenhet och fascination för vårt solsystem och våra närmsta himlakroppar.
 
@@ -21,8 +27,5 @@ Observera att under den inledande dramatiseringen kan det förekomma höga ljud.
 
 Det pedagogledda programmet är 75 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
 
+## Befintligt "Bra att veta"
 
-## Ny text
-
-
-## Kommentarer

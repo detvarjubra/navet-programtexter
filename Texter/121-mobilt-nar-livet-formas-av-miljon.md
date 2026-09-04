@@ -1,15 +1,22 @@
 ---
-program_id: 121
-offer_id: 121
-slug: "nar-livet-formas-av-miljon"
-color: "#a9d08e"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 121
+titel: "MOBILT När livet formas av miljön"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # MOBILT När livet formas av miljön
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 När livet formas av miljön - djurs och växters anpassningar
 
@@ -19,8 +26,5 @@ Genom observationer och experiment med levande organismer, leksaksdjur och bilde
 
 Vi på Navet försöker träffa så många som möjligt, så vi vill gärna att ni bokar minst tre klasser efter varandra samma dag när vi kommer till er. Tiden för varje klass är ca 60 minuter.
 
+## Befintligt "Bra att veta"
 
-## Ny text
-
-
-## Kommentarer

@@ -1,15 +1,21 @@
 ---
-program_id: 12
-offer_id: 12
-slug: "kemiutmaningen"
-color: "#FFC000"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 12
+titel: "Kemiutmaningen"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Kemiutmaningen
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
 
 Välkomna på ett kemiprogram som verkligen väcker experimentlusten samtidigt som ett naturvetenskapligt arbetssätt tränas. 
 
@@ -27,7 +33,5 @@ Begrepp som tas upp under besöket:
 - Molekyler och atomer 
 - Kemiska reaktioner
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

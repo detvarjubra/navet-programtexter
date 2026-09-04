@@ -1,15 +1,22 @@
 ---
-program_id: 102
-offer_id: 102
-slug: "mobilt-utomhusprogram-biologisk-mangfald-och-skogsbruk"
-color: "#00B050"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 102
+titel: "MOBILT Utomhusprogram Biologisk mångfald och skogsbruk"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # MOBILT Utomhusprogram Biologisk mångfald och skogsbruk
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 Upptäck skogens roll – och dess balans mellan produktion och biologisk mångfald
 
@@ -27,7 +34,5 @@ Det här programmet ger eleverna både praktiska färdigheter och en djupare fö
 
 Välkomna ut i skogen för att lära och inspireras av vår mest mångsidiga naturresurs!
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

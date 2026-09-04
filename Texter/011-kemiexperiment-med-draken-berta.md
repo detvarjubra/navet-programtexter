@@ -1,15 +1,21 @@
 ---
-program_id: 11
-offer_id: 11
-slug: "kemiexperiment-med-draken-berta"
-color: "#FFC000"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 11
+titel: "Kemiexperiment med draken Berta"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Kemiexperiment med draken Berta
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
 
 Välkomna på _draken Bertas_ alldeles egna kemiprogram! 
 
@@ -26,7 +32,5 @@ Begrepp som tas upp under programmet:
 
 Det pedagogledda programmet är 75 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

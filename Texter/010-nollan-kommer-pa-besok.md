@@ -1,15 +1,22 @@
 ---
-program_id: 10
-offer_id: 10
-slug: "nollan-kommer-pa-besok"
-color: "#FF66CC"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 10
+titel: "Nollan kommer på besök"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Nollan kommer på besök
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 Nollan kommer på besök – en resa i siffermagi och historisk matematik!
 
@@ -23,8 +30,5 @@ Kom och upptäck hur historien om nollan och siffrornas magi fortfarande påverk
 
 Det pedagogledda programmet är 75 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
 
+## Befintligt "Bra att veta"
 
-## Ny text
-
-
-## Kommentarer

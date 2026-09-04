@@ -1,15 +1,22 @@
 ---
-program_id: 32
-offer_id: 32
-slug: "upptack-matematikens-magi"
-color: "#FF66CC"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 32
+titel: "Upptäck matematikens magi"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Upptäck matematikens magi
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 I Navets matematikavdelning väcks nyfikenhet och fascination för matematikens värld! Här får eleverna möjlighet att utforska matematik ur nya, praktiska perspektiv.
 
@@ -17,7 +24,5 @@ Programmet bjuder på en mix av historiska berättelser, praktiska övningar och
 
 Kom och upptäck hur matematik kan bli både inspirerande och roligt!
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

@@ -1,15 +1,22 @@
 ---
-program_id: 140
-offer_id: 143
-slug: "mobilt-utomhusprogram-djur-och-vaxter-i-skogen"
-color: "#00b050"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 140
+titel: "MOBILT Utomhusprogram - Djur och växter i skogen"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # MOBILT Utomhusprogram - Djur och växter i skogen
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 En skog består inte bara av träd utan är så mycket mer. I det här skolprogrammet gör vi övningar och lekar som lyfter upp alla de samband som finns i skogen. Fokus ligger på att förstå hur viktigt det är med fungerande ekosystem. 
 
@@ -19,7 +26,5 @@ Vi på Navet försöker träffa så många som möjligt, så ni behöver boka mi
 
 Tiden för varje klass är 60 minuter.
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

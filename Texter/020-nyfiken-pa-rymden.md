@@ -1,15 +1,22 @@
 ---
-program_id: 20
-offer_id: 20
-slug: "nyfiken-pa-rymden"
-color: "#6a8fff"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 20
+titel: "Nyfiken på rymden"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Nyfiken på rymden
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 Välkomna på vårt rymdprogram _Nyfiken på rymden_ som väcker nyfikenhet och fascination för vårt solsystem och hur årstiderna egentligen hänger ihop med himlakropparnas rörelser.
 
@@ -23,7 +30,5 @@ Begrepp som berörs under programmet:
 - Människan i rymden
 - Vår syn på universum genom tiderna
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

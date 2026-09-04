@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "022-elektriska-kretsar-och-magnetiska-falt.md",
+                "file": "001-manen-solen-och-stjarnorna.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "022-elektriska-kretsar-och-magnetiska-falt"
+              "title": "001-manen-solen-och-stjarnorna"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 452.5
   },
   "right": {
     "id": "22c95df7c1d8dea6",
@@ -190,6 +190,7 @@
   },
   "active": "8bc9561feb454f2f",
   "lastOpenFiles": [
+    "022-elektriska-kretsar-och-magnetiska-falt.md",
     "021-var-fascinerande-kropp.md",
     "017-mobilt-utomhusprogram-matematik-i-rorelse.md",
     "014-mobilt-utomhusprogram-svampar-och-nedbrytning.md",

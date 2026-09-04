@@ -1,15 +1,21 @@
 ---
-program_id: 3
-offer_id: 3
-slug: "kemibus-med-draken-berta"
-color: "#FFC000"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 3
+titel: "Kemibus med draken Berta"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Kemibus med draken Berta
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
 
 Välkomna på _draken Bertas_ kemiprogram och prova hennes spännande kemiexperiment som väcker nyfikenhet och experimentlust.
 
@@ -19,7 +25,5 @@ Programmet låter barnen uppleva, utforska och upptäcka hur spännande kemi kan
 
 Det pedagogledda programmet är något kortare än 90 minuter och den sista stunden erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

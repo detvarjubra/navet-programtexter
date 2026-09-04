@@ -1,15 +1,22 @@
 ---
-program_id: 54
-offer_id: 54
-slug: "det-brinner"
-color: "#FFC000"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 54
+titel: "Det brinner!"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Det brinner!
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 Välkommen till ett spännande skolprogram med kemianalyser, fingeravtryck och rollspel där eleverna får inblick och förståelse för konsekvenserna av att anlägga en brand. Hur går en rättegång till? Får det några konsekvenser om jag som barn råkar orsaka en brand? Dessutom får eleverna en hel del kemi och brandkunskap.
 
@@ -19,8 +26,5 @@ Eleverna delas in i mindre grupper och får sedan presentera de bevismaterial so
 
 Rättegången är ett efterarbete som utförs hemma i klassrummet utifrån ett färdigt rollspelsmaterial framtaget av Navet.
 
+## Befintligt "Bra att veta"
 
-## Ny text
-
-
-## Kommentarer

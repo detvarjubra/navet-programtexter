@@ -1,15 +1,22 @@
 ---
-program_id: 138
-offer_id: 140
-slug: "pa-rymdaventyr-med-tant-sol"
-color: "#6a8fff"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 138
+titel: "På rymdäventyr med Tant Sol"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # På rymdäventyr med Tant Sol
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 Hur lyser månen? Vad gör solen hela dagen? Och hur tog sig människan till rymden? 
 
@@ -17,7 +24,5 @@ Tant Sol bjuder in barnen till ett fantasifullt äventyr i rymden! Tillsammans m
 
 Det pedagogledda programmet är 45 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

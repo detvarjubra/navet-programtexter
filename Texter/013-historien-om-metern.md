@@ -1,15 +1,22 @@
-13---
-program_id: 13
-offer_id: 13
-slug: "historien-om-metern"
-color: "#FF66CC"
-status: "Ej påbörjad"
-ansvarig: ""
+---
+expo_id: 13
+titel: "Historien om metern"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Historien om metern
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 Välkomna på Navets matematikprogram _Historien om metern_ som tar oss genom historiens mått och enheter på ett lekfullt och spännande vis.
 
@@ -25,7 +32,5 @@ Begrepp som berörs under programmet:
 
 Det pedagogledda programmet är 75 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

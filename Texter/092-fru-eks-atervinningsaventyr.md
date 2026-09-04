@@ -1,15 +1,22 @@
 ---
-program_id: 92
-offer_id: 92
-slug: "fru-eks-atervinningsaventyr"
-color: "#A9D08E"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 92
+titel: "Fru Eks återvinningsäventyr"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Fru Eks återvinningsäventyr
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 Välkommen till ett roligt och lärorikt äventyr för förskolebarn från 4 år! I detta program får barnen hjälpa _Fru Ek_ att upptäcka vad olika förpackningar är gjorda av och hur de kan sorteras för återvinning.
 
@@ -17,7 +24,5 @@ Fru Ek har hittat konstiga saker i sin skog som hon inte riktigt känner igen. H
 
 Det pedagogledda programmet är 45 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

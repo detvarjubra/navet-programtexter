@@ -1,15 +1,22 @@
 ---
-program_id: 110
-offer_id: 110
-slug: "digitalt-bertas-matematikkalas"
-color: "#b9f542"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 110
+titel: "DIGITALT Bertas matematikkalas"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # DIGITALT Bertas matematikkalas
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 Kul med kalas!
 
@@ -24,8 +31,5 @@ Längd: ca 30 minuter
 
 När du anmält din barngrupp kommer du att få en länk till ett digitalt möte där det digitala programmet kommer att ske. Det kommer också komma instruktioner till förberedelser av enkelt slag.
 
+## Befintligt "Bra att veta"
 
-## Ny text
-
-
-## Kommentarer

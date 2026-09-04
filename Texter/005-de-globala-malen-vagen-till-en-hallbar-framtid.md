@@ -1,19 +1,23 @@
 ---
-program_id: 5
-offer_id: 5
-slug: "de-globala-malen-vagen-till-en-hallbar-framtid"
-color: "#A9D08E"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 5
+titel: "De globala målen - vägen till en hållbar framtid"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # De globala målen - vägen till en hållbar framtid
 
-## Nuvarande text
+## Ny webbtext
 
-Föreläsning, diskussioner och praktiska övningar kring hållbar utveckling och de globala målen. 
+## Bra att veta
 
-## Ny text
+## Innehåll
 
+## Befintlig webbtext
 
-## Kommentarer
+Föreläsning, diskussioner och praktiska övningar kring hållbar utveckling och de globala målen.
+
+## Befintligt "Bra att veta"
+

@@ -1,15 +1,22 @@
 ---
-program_id: 124
-offer_id: 124
-slug: "mobilt-varfor-piper-det"
-color: "#FFFF00"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 124
+titel: "MOBILT Varför piper det?"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # MOBILT Varför piper det?
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 Lär er mer om styr- och reglersystem!
 
@@ -19,7 +26,5 @@ I det här projektet bygger vi ett eget alarmsystem. Med hjälp av en micro:bit 
 
 Vi på Navet försöker träffa så många som möjligt, så vi vill gärna att ni bokar minst tre klasser efter varandra samma dag när vi kommer till er. Tiden för varje klass är 60 minuter.
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

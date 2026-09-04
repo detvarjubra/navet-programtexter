@@ -1,15 +1,22 @@
 ---
-program_id: 122
-offer_id: 122
-slug: "bygg-och-programmera-med-lego"
-color: "#ffff00"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 122
+titel: "Bygg och programmera med LEGO®"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Bygg och programmera med LEGO®
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 Låt dina elever upptäcka teknikens värld med LEGO® Education SPIKE™ Essential! 
 
@@ -17,8 +24,5 @@ Genom lekfulla och praktiska uppdrag får de utforska sin kreativitet, konstruer
 
 Det pedagogledda programmet är 75 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
 
+## Befintligt "Bra att veta"
 
-## Ny text
-
-
-## Kommentarer

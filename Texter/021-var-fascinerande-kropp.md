@@ -1,15 +1,21 @@
 ---
-program_id: 21
-offer_id: 21
-slug: "var-fascinerande-kropp"
-color: "#FF5050"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 21
+titel: "Vår fascinerande kropp"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Vår fascinerande kropp
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
 
 Välkommen på vårt program _Vår fascinerande kropp_ där ni får besöka Navets "läkarmottagning" och hjälpa till att diagnostisera patienter.
  
@@ -23,7 +29,5 @@ Begrepp som tas upp under besöket:
 - Sinnena
 - Lymfsystemets roll vid vissa sjukdomar
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

@@ -1,15 +1,22 @@
 ---
-program_id: 27
-offer_id: 27
-slug: "hjalp-al-khwarizmi-losa-problem"
-color: "#FF66CC"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 27
+titel: "Hjälp al-Khwarizmi lösa problem"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Hjälp al-Khwarizmi lösa problem
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 Hjälp al-Khwarizmi lösa problem! – om matematiskt tänkande och samarbete
 
@@ -19,8 +26,5 @@ Tillsammans väcker de en nyfikenhet på problemlösning som smittar av sig – 
 
 I detta kreativa och samarbetsinriktade skolprogram får eleverna ta sig an olika matematiska utmaningar med hjälp av praktiskt material, logiskt tänkande och varandras idéer. Det handlar inte bara om att räkna rätt – utan om att **tänka, resonera och samarbeta** för att hitta lösningar tillsammans.
 
+## Befintligt "Bra att veta"
 
-## Ny text
-
-
-## Kommentarer

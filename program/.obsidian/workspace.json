@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001-manen-solen-och-stjarnorna.md",
+                "file": "043-navet-pa-publikt-uppdrag-pa-annan-plats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001-manen-solen-och-stjarnorna"
+              "title": "043-navet-pa-publikt-uppdrag-pa-annan-plats"
             }
           }
         ]
@@ -190,6 +190,11 @@
   },
   "active": "576733a5401284bd",
   "lastOpenFiles": [
+    "042-studiebesok-pa-navet.md",
+    "043-navet-pa-publikt-uppdrag-pa-annan-plats.md",
+    "045-fritidsbesok-pa-navet.md",
+    "046-navet-pa-egen-hand.md",
+    "001-manen-solen-och-stjarnorna.md",
     "011-kemiexperiment-med-draken-berta.md",
     "014-mobilt-utomhusprogram-svampar-och-nedbrytning.md",
     "019-programmerings-aventyret.md",
@@ -200,7 +205,6 @@
     "004-spelet-om-de-globala-malen.md",
     "003-kemibus-med-draken-berta.md",
     "002-vattenexperiment-med-tunda-gammalt.md",
-    "001-manen-solen-och-stjarnorna.md",
     "006-utblick-i-universum.md"
   ]
 }

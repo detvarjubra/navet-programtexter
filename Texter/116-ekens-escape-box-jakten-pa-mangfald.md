@@ -1,15 +1,22 @@
 ---
-program_id: 116
-offer_id: 116
-slug: "ekens-escape-box"
-color: "#a9d08e"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 116
+titel: "Ekens escape box - jakten på mångfald"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # Ekens escape box - jakten på mångfald
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 Ekens escape box är en spännande och lärorik aktivitet som syftar till att lära elever om biologisk mångfald och ekosystemens komplexitet genom att lösa utmaningar och pussel för att rädda en gammal ek och dess omgivande livsmiljö.
 
@@ -19,7 +26,5 @@ Denna escape box kombinerar således spännande spelupplevelser med pedagogiskt 
 
 OBS! Detta skolprogram genomförs på Navet, men kan också erbjudas mobilt. Läs i så fall [här](https://booking.navet.com/booking/1/3/offers/101).
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

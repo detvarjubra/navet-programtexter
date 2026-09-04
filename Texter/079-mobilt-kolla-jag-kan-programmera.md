@@ -1,15 +1,22 @@
 ---
-program_id: 79
-offer_id: 79
-slug: "mobilt-kolla-jag-kan-programmera"
-color: "#FFFF00"
-status: "Ej påbörjad"
-ansvarig: ""
+expo_id: 79
+titel: "MOBILT Kolla, jag kan programmera!"
+malgrupp: []
+amnen: []
+teman: []
+nyckelord: []
 ---
 
 # MOBILT Kolla, jag kan programmera!
 
-## Nuvarande text
+## Ny webbtext
+
+## Bra att veta
+
+## Innehåll
+
+## Befintlig webbtext
+
 
 Ett skolprogram om programmering där Navets pedagoger kommer ut till skolan och håller i aktiviteten. 
 
@@ -19,7 +26,5 @@ För att skolprogrammet ska kunna utföras behöver ni ha datorer till eleverna.
 
 Vi på Navet försöker träffa så många som möjligt, så vi vill gärna att ni bokar minst tre klasser efter varandra samma dag när vi kommer till er. Tiden för varje klass är 60 minuter.
 
-## Ny text
+## Befintligt "Bra att veta"
 
-
-## Kommentarer

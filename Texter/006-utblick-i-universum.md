@@ -9,11 +9,11 @@ nyckelord: []
 
 # Utblick i universum
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

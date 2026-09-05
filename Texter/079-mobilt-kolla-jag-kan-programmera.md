@@ -9,11 +9,11 @@ nyckelord: []
 
 # MOBILT Kolla, jag kan programmera!
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

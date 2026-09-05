@@ -9,11 +9,11 @@ nyckelord: []
 
 # Digestiva och matens väg genom kroppen
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

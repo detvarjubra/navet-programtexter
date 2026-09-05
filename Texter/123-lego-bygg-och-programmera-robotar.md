@@ -9,11 +9,11 @@ nyckelord: []
 
 # LEGO® - bygg och programmera robotar!
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

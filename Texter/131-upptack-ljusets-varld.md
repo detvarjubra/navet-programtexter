@@ -9,11 +9,11 @@ nyckelord: []
 
 # Upptäck ljusets värld
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

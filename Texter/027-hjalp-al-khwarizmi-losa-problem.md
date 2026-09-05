@@ -9,11 +9,11 @@ nyckelord: []
 
 # Hjälp al-Khwarizmi lösa problem
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

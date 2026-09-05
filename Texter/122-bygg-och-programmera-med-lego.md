@@ -9,11 +9,11 @@ nyckelord: []
 
 # Bygg och programmera med LEGO®
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

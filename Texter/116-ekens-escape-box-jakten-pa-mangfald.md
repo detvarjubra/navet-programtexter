@@ -9,11 +9,11 @@ nyckelord: []
 
 # Ekens escape box - jakten på mångfald
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

@@ -9,11 +9,11 @@ nyckelord: []
 
 # MOBILT Varför piper det?
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

@@ -9,11 +9,11 @@ nyckelord: []
 
 # MOBILT Upplev stjärnhimlen i Navets stjärntält
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

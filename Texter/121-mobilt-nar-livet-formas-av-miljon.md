@@ -9,11 +9,11 @@ nyckelord: []
 
 # MOBILT När livet formas av miljön
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

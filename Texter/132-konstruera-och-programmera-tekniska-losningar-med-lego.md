@@ -9,11 +9,11 @@ nyckelord: []
 
 # Konstruera och programmera tekniska lösningar med LEGO®
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

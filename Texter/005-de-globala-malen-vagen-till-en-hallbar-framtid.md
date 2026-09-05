@@ -9,11 +9,11 @@ nyckelord: []
 
 # De globala målen - vägen till en hållbar framtid
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

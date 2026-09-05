@@ -9,11 +9,11 @@ nyckelord: []
 
 # Nyfiken på rymden
 
-## Ny webbtext
-
 ## Praktisk information
 
 ## Innehåll
+
+## Ny webbtext
 
 ## Befintlig webbtext
 

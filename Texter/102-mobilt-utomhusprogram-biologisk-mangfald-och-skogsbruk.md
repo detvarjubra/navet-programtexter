@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -33,6 +33,3 @@ Upplägget innehåller förberedelse i klassen då eleverna studerar bakgrundsma
 Det här programmet ger eleverna både praktiska färdigheter och en djupare förståelse för hur viktigt det är att kombinera hänsyn med produktion i skogsbruket.
 
 Välkomna ut i skogen för att lära och inspireras av vår mest mångsidiga naturresurs!
-
-## Befintligt "Bra att veta"
-

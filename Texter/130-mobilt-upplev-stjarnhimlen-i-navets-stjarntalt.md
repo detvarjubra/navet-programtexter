@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -25,6 +25,3 @@ Navet fyller 30 år och då passar vi på att leta upp några gamla godingar fr�
 **OBS, programmet kräver stor lokal, t ex idrottssalen. Utrymmet måste vara minst 8 x 10 meter samt ha en fri takhöjd på minst 4 meter.**
 
 Vi på Navet försöker träffa så många som möjligt, så vi vill gärna att ni bokar minst tre klasser efter varandra samma dag när vi kommer till er. Tiden för varje klass är ca 40 minuter.
-
-## Befintligt "Bra att veta"
-

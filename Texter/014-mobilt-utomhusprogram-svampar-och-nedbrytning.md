@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -22,6 +22,3 @@ Svampar är spännande, intressanta och har väldigt stor betydelse i ekosysteme
 Beroende på förutsättningar kan vi antingen genomföra temat i en skog nära er skola eller på Navets Naturskola vid Ramshulan på Rya Åsar i Borås. 
 
 Vi på Navet försöker träffa så många som möjligt, så ni behöver boka minst tre klasser efter varandra samma dag när vi kommer till er.
-
-## Befintligt "Bra att veta"
-

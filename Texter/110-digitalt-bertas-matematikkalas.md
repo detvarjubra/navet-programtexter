@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -30,6 +30,3 @@ Längd: ca 30 minuter
 Ålder på barn: 3-4 år
 
 När du anmält din barngrupp kommer du att få en länk till ett digitalt möte där det digitala programmet kommer att ske. Det kommer också komma instruktioner till förberedelser av enkelt slag.
-
-## Befintligt "Bra att veta"
-

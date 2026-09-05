@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -25,6 +25,3 @@ Programmet är utformat som ett "Kriminalfall" där eleverna agerar kriminaltekn
 Eleverna delas in i mindre grupper och får sedan presentera de bevismaterial som de hittat för sina klasskompisar. Därefter är det dags för klassen att förbereda sig för att delta i en rättegång i form av ett rollspel där alla elever deltar.
 
 Rättegången är ett efterarbete som utförs hemma i klassrummet utifrån ett färdigt rollspelsmaterial framtaget av Navet.
-
-## Befintligt "Bra att veta"
-

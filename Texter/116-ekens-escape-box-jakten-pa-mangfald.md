@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -25,6 +25,3 @@ Aktiviteten inleds med en kort introduktion om ekar och begreppet nyckelart. Ele
 Denna escape box kombinerar således spännande spelupplevelser med pedagogiskt värdefullt lärande om artkunskap och hållbar utveckling, vilket ger eleverna en engagerande och minnesvärd upplevelse.
 
 OBS! Detta skolprogram genomförs på Navet, men kan också erbjudas mobilt. Läs i så fall [här](https://booking.navet.com/booking/1/3/offers/101).
-
-## Befintligt "Bra att veta"
-

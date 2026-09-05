@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -30,6 +30,3 @@ Vi kontaktar dig som lärare och bokar in ett digitalt möte, ca 30 minuter, dä
 
 
 OBS - PROGRAMMET ÄR DIGITALT.
-
-## Befintligt "Bra att veta"
-

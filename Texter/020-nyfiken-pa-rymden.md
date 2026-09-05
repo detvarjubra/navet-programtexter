@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -29,6 +29,3 @@ Begrepp som berörs under programmet:
 - Årstider, dag och natt samt år och kopplingen till himlakropparnas rörelser
 - Människan i rymden
 - Vår syn på universum genom tiderna
-
-## Befintligt "Bra att veta"
-

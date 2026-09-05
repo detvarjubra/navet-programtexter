@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -24,6 +24,3 @@ Genom pedagogiska och roliga aktiviteter får eleverna förståelse för matspj�
 Under programmet får eleverna även prova på experiment och aktiviteter kopplade till kroppens funktioner och system i Navets avdelning om människokroppen. 
 
 Det pedagogledda programmet är 60 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
-
-## Befintligt "Bra att veta"
-

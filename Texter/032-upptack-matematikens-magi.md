@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -23,6 +23,3 @@ I Navets matematikavdelning väcks nyfikenhet och fascination för matematikens 
 Programmet bjuder på en mix av historiska berättelser, praktiska övningar och kluriga utmaningar, allt för att väcka elevernas intresse och visa hur matematik är spännande, relevant och användbart. Eleverna får använda sin kreativitet och sitt logiska tänkande för att hitta lösningar.
 
 Kom och upptäck hur matematik kan bli både inspirerande och roligt!
-
-## Befintligt "Bra att veta"
-

@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -20,6 +20,3 @@ nyckelord: []
 Koppla, testa och experimentera med elektricitet och magnetism! 
 
 I detta skolprogram får eleverna utforska och experimentera med elektricitetens och magnetismens spännande värld. Genom att koppla kretsar, testa och göra egna upptäckter lär sig eleverna hur elektricitet och magnetism fungerar och hur de hänger ihop. Programmet uppmuntrar nyfikenhet, kreativitet och förståelse för naturvetenskapens grundläggande principer på ett roligt och praktiskt sätt.
-
-## Befintligt "Bra att veta"
-

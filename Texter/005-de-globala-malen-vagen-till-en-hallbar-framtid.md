@@ -11,13 +11,10 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
 ## Befintlig webbtext
 
 Föreläsning, diskussioner och praktiska övningar kring hållbar utveckling och de globala målen.
-
-## Befintligt "Bra att veta"
-

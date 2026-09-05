@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -25,6 +25,3 @@ Den kloka matematikern Al-Khwarizmi har fått ett riktigt klurigt problem – me
 Tillsammans väcker de en nyfikenhet på problemlösning som smittar av sig – och nu behöver de din hjälp!
 
 I detta kreativa och samarbetsinriktade skolprogram får eleverna ta sig an olika matematiska utmaningar med hjälp av praktiskt material, logiskt tänkande och varandras idéer. Det handlar inte bara om att räkna rätt – utan om att **tänka, resonera och samarbeta** för att hitta lösningar tillsammans.
-
-## Befintligt "Bra att veta"
-

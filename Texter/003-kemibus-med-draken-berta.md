@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -24,6 +24,3 @@ Navets pedagoger möter upp er i entrén tillsammans med Berta och tar er med ti
 Programmet låter barnen uppleva, utforska och upptäcka hur spännande kemi kan vara och ger chansen att prova på att använda pipetter och annan kemiutrustning.
 
 Det pedagogledda programmet är något kortare än 90 minuter och den sista stunden erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
-
-## Befintligt "Bra att veta"
-

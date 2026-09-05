@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -25,6 +25,3 @@ Vi använder oss av Micro: bit som är en enkel smart liten dator med olika funk
 För att skolprogrammet ska kunna utföras behöver ni ha datorer till eleverna.
 
 Vi på Navet försöker träffa så många som möjligt, så vi vill gärna att ni bokar minst tre klasser efter varandra samma dag när vi kommer till er. Tiden för varje klass är 60 minuter.
-
-## Befintligt "Bra att veta"
-

@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -32,6 +32,3 @@ Begrepp som tas upp under besöket:
 - Gas 
 - Molekyler och atomer 
 - Kemiska reaktioner
-
-## Befintligt "Bra att veta"
-

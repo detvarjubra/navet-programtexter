@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -24,6 +24,3 @@ Under programmet får eleverna träffa _Benny_, ett livligt och pedagogiskt skel
 Därefter fortsätter äventyret i Navets avdelning om människokroppen. Här får eleverna möjlighet att interagera med en rad experiment och aktiviteter som belyser människokroppens fascinerande funktioner. Skolprogrammet avslutas med en gemensam aktivitet.
 
 Det pedagogledda programmet är 60 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
-
-## Befintligt "Bra att veta"
-

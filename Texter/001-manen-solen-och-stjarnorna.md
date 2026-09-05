@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -26,6 +26,3 @@ Vi fortsätter med en gemensam aktivitet där vi utforskar månens faser. Däref
 Observera att under den inledande dramatiseringen kan det förekomma höga ljud.
 
 Det pedagogledda programmet är 75 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
-
-## Befintligt "Bra att veta"
-

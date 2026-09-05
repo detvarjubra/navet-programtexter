@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -28,6 +28,3 @@ Begrepp som tas upp under besöket:
 - Människans organsystem
 - Sinnena
 - Lymfsystemets roll vid vissa sjukdomar
-
-## Befintligt "Bra att veta"
-

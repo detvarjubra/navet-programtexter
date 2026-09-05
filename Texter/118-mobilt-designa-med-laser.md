@@ -11,7 +11,7 @@ nyckelord: []
 
 ## Ny webbtext
 
-## Bra att veta
+## Praktisk information
 
 ## Innehåll
 
@@ -29,6 +29,3 @@ För att programmet ska gå att genomföra krävs:
 • Eleverna har genomfört förarbetet inför skolbesöket (att tänka ut en favoritlåt)  
  
 Vi på Navet försöker träffa så många som möjligt, så vi vill gärna att ni bokar minst tre klasser efter varandra samma dag när vi kommer till er. Tiden för varje klass är minst 60 minuter men gärna 75 minuter om möjligt.
-
-## Befintligt "Bra att veta"
-

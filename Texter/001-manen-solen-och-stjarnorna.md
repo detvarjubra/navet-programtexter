@@ -6,9 +6,23 @@ malgrupp:
   - ak_1
   - ak_2
   - ak_3
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - fysik
+teman:
+  - astronomi
+  - rymden
+  - ljus
+nyckelord:
+  - Månen
+  - Månens faser
+  - Solen
+  - Stjärnor
+  - Solsystemet
+  - Universum
+  - Månlandningen
+  - Galileo Galilei
+  - Margaret Hamilton
+  - Ljus
 ---
 
 # Månen, solen och stjärnorna
@@ -22,6 +36,7 @@ nyckelord: []
 - Det förekommer ballonger i introduktionen.
 
 ## Innehåll
+Programmet behandlar solen, månen och stjärnorna med fokus på vårt solsystem och våra närmaste himlakroppar. Eleverna utforskar månens faser och möter astronomi genom dramatisering, experiment och aktiviteter i Astronoma. Programmet berör även månlandningen, Galileo Galilei, universum och fenomen kopplade till ljus.
 
 ## Ny webbtext
 

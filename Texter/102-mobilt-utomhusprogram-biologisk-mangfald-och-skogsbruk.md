@@ -12,7 +12,7 @@ nyckelord: []
 
 ## Praktisk information
 
-- **Programmets längd:** 90 minuter
+- **Besökets längd:** 90 minuter
 - **Max deltagande barn/elever:** 100
 
 ## Innehåll

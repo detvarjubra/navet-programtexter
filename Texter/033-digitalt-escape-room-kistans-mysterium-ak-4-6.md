@@ -14,7 +14,7 @@ nyckelord: []
 
 ## Praktisk information
 
-- **Programmets längd:** 75 minuter
+- **Besökets längd:** 75 minuter
 
 ## Innehåll
 

@@ -1,7 +1,12 @@
 ---
 expo_id: 6
 titel: "Utblick i universum"
-malgrupp: []
+malgrupp:
+  - ak_7
+  - ak_8
+  - ak_9
+  - gymnasiet
+  - sfi_vuxenutbildning
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +15,9 @@ nyckelord: []
 # Utblick i universum
 
 ## Praktisk information
+
+- **Programmets längd:** 60 minuter
+- **Max deltagande barn/elever:** 30
 
 ## Innehåll
 

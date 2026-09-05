@@ -1,7 +1,11 @@
 ---
 expo_id: 12
 titel: "Kemiutmaningen"
-malgrupp: []
+malgrupp:
+  - ak_4
+  - ak_5
+  - ak_6
+  - ak_7
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +14,9 @@ nyckelord: []
 # Kemiutmaningen
 
 ## Praktisk information
+
+- **Programmets längd:** 90 minuter
+- **Max deltagande barn/elever:** 24
 
 ## Innehåll
 

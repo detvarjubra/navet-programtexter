@@ -1,7 +1,10 @@
 ---
 expo_id: 79
 titel: "MOBILT Kolla, jag kan programmera!"
-malgrupp: []
+malgrupp:
+  - ak_4
+  - ak_5
+  - ak_6
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +13,9 @@ nyckelord: []
 # MOBILT Kolla, jag kan programmera!
 
 ## Praktisk information
+
+- **Programmets längd:** 60 minuter
+- **Max deltagande barn/elever:** 100
 
 ## Innehåll
 

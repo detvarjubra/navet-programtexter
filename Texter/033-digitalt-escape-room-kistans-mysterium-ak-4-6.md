@@ -1,7 +1,10 @@
 ---
 expo_id: 33
 titel: "DIGITALT Escape room - Kistans mysterium åk 4-6"
-malgrupp: []
+malgrupp:
+  - ak_4
+  - ak_5
+  - ak_6
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +13,8 @@ nyckelord: []
 # DIGITALT Escape room - Kistans mysterium åk 4-6
 
 ## Praktisk information
+
+- **Programmets längd:** 75 minuter
 
 ## Innehåll
 

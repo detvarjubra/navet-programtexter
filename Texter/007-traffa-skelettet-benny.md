@@ -1,7 +1,9 @@
 ---
 expo_id: 7
 titel: "Träffa skelettet Benny"
-malgrupp: []
+malgrupp:
+  - forskoleklass
+  - ak_1
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +12,9 @@ nyckelord: []
 # Träffa skelettet Benny
 
 ## Praktisk information
+
+- **Programmets längd:** 60 minuter
+- **Max deltagande barn/elever:** 30
 
 ## Innehåll
 

@@ -1,7 +1,11 @@
 ---
 expo_id: 21
 titel: "Vår fascinerande kropp"
-malgrupp: []
+malgrupp:
+  - ak_4
+  - ak_5
+  - ak_6
+  - sfi_vuxenutbildning
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +14,9 @@ nyckelord: []
 # Vår fascinerande kropp
 
 ## Praktisk information
+
+- **Programmets längd:** 90 minuter
+- **Max deltagande barn/elever:** 30
 
 ## Innehåll
 

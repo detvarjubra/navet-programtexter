@@ -1,7 +1,12 @@
 ---
 expo_id: 32
 titel: "Upptäck matematikens magi"
-malgrupp: []
+malgrupp:
+  - ak_7
+  - ak_8
+  - ak_9
+  - gymnasiet
+  - sfi_vuxenutbildning
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +15,9 @@ nyckelord: []
 # Upptäck matematikens magi
 
 ## Praktisk information
+
+- **Programmets längd:** 90 minuter
+- **Max deltagande barn/elever:** 30
 
 ## Innehåll
 

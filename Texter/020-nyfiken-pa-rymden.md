@@ -1,7 +1,10 @@
 ---
 expo_id: 20
 titel: "Nyfiken på rymden"
-malgrupp: []
+malgrupp:
+  - ak_4
+  - ak_5
+  - ak_6
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +13,9 @@ nyckelord: []
 # Nyfiken på rymden
 
 ## Praktisk information
+
+- **Programmets längd:** 90 minuter
+- **Max deltagande barn/elever:** 30
 
 ## Innehåll
 

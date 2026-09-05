@@ -1,7 +1,12 @@
 ---
 expo_id: 121
 titel: "MOBILT När livet formas av miljön"
-malgrupp: []
+malgrupp:
+  - ak_2
+  - ak_3
+  - ak_4
+  - ak_5
+  - ak_6
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +15,9 @@ nyckelord: []
 # MOBILT När livet formas av miljön
 
 ## Praktisk information
+
+- **Programmets längd:** cirka 60 minuter
+- **Max deltagande barn/elever:** 100
 
 ## Innehåll
 

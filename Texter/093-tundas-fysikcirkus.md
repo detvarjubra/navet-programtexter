@@ -1,7 +1,11 @@
 ---
 expo_id: 93
 titel: "Tundas fysikcirkus"
-malgrupp: []
+malgrupp:
+  - forskola
+  - anpassad_grundskola
+  - anpassad_gymnasieskola
+fran_alder: 3
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +14,9 @@ nyckelord: []
 # Tundas fysikcirkus
 
 ## Praktisk information
+
+- **Programmets längd:** 60 minuter
+- **Max deltagande barn/elever:** 16
 
 ## Innehåll
 

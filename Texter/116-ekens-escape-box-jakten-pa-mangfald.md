@@ -1,7 +1,11 @@
 ---
 expo_id: 116
 titel: "Ekens escape box - jakten på mångfald"
-malgrupp: []
+malgrupp:
+  - ak_4
+  - ak_5
+  - ak_6
+  - ak_7
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +14,9 @@ nyckelord: []
 # Ekens escape box - jakten på mångfald
 
 ## Praktisk information
+
+- **Programmets längd:** 60 minuter
+- **Max deltagande barn/elever:** 100
 
 ## Innehåll
 

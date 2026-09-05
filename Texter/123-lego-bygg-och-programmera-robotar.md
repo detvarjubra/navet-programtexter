@@ -1,7 +1,10 @@
 ---
 expo_id: 123
 titel: "LEGO® - bygg och programmera robotar!"
-malgrupp: []
+malgrupp:
+  - ak_4
+  - ak_5
+  - ak_6
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +13,9 @@ nyckelord: []
 # LEGO® - bygg och programmera robotar!
 
 ## Praktisk information
+
+- **Programmets längd:** 90 minuter
+- **Max deltagande barn/elever:** 25
 
 ## Innehåll
 

@@ -1,7 +1,10 @@
 ---
 expo_id: 27
 titel: "Hjälp al-Khwarizmi lösa problem"
-malgrupp: []
+malgrupp:
+  - ak_4
+  - ak_5
+  - ak_6
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +13,9 @@ nyckelord: []
 # Hjälp al-Khwarizmi lösa problem
 
 ## Praktisk information
+
+- **Programmets längd:** 90 minuter
+- **Max deltagande barn/elever:** 30
 
 ## Innehåll
 

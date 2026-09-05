@@ -1,7 +1,11 @@
 ---
 expo_id: 11
 titel: "Kemiexperiment med draken Berta"
-malgrupp: []
+malgrupp:
+  - forskoleklass
+  - ak_1
+  - ak_2
+  - ak_3
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +14,9 @@ nyckelord: []
 # Kemiexperiment med draken Berta
 
 ## Praktisk information
+
+- **Programmets längd:** 75 minuter
+- **Max deltagande barn/elever:** 24
 
 ## Innehåll
 

@@ -1,7 +1,11 @@
 ---
 expo_id: 17
 titel: "MOBILT Utomhusprogram - Matematik i rörelse"
-malgrupp: []
+malgrupp:
+  - forskoleklass
+  - ak_1
+  - ak_2
+  - ak_3
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +14,9 @@ nyckelord: []
 # MOBILT Utomhusprogram - Matematik i rörelse
 
 ## Praktisk information
+
+- **Programmets längd:** cirka 60 minuter
+- **Max deltagande barn/elever:** 100
 
 ## Innehåll
 

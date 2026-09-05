@@ -1,7 +1,10 @@
 ---
 expo_id: 54
 titel: "Det brinner!"
-malgrupp: []
+malgrupp:
+  - ak_5
+  - ak_6
+  - ak_7
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +13,9 @@ nyckelord: []
 # Det brinner!
 
 ## Praktisk information
+
+- **Programmets längd:** 90 minuter
+- **Max deltagande barn/elever:** 24
 
 ## Innehåll
 

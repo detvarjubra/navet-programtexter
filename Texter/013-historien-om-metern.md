@@ -1,7 +1,9 @@
 ---
 expo_id: 13
 titel: "Historien om metern"
-malgrupp: []
+malgrupp:
+  - ak_2
+  - ak_3
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +12,9 @@ nyckelord: []
 # Historien om metern
 
 ## Praktisk information
+
+- **Programmets längd:** 75 minuter
+- **Max deltagande barn/elever:** 30
 
 ## Innehåll
 

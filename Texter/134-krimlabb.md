@@ -1,7 +1,9 @@
 ---
 expo_id: 134
 titel: "Krimlabb"
-malgrupp: []
+malgrupp:
+  - ak_9
+  - gymnasiet
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +12,9 @@ nyckelord: []
 # Krimlabb
 
 ## Praktisk information
+
+- **Programmets längd:** 60 minuter
+- **Max deltagande barn/elever:** 24
 
 ## Innehåll
 

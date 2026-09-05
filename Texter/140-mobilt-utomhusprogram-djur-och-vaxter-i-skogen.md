@@ -1,7 +1,14 @@
 ---
 expo_id: 140
 titel: "MOBILT Utomhusprogram - Djur och växter i skogen"
-malgrupp: []
+malgrupp:
+  - forskoleklass
+  - ak_1
+  - ak_2
+  - ak_3
+  - ak_4
+  - ak_5
+  - ak_6
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +17,9 @@ nyckelord: []
 # MOBILT Utomhusprogram - Djur och växter i skogen
 
 ## Praktisk information
+
+- **Programmets längd:** cirka 60 minuter
+- **Max deltagande barn/elever:** 100
 
 ## Innehåll
 

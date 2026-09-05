@@ -1,7 +1,9 @@
 ---
 expo_id: 10
 titel: "Nollan kommer på besök"
-malgrupp: []
+malgrupp:
+  - forskoleklass
+  - ak_1
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +12,9 @@ nyckelord: []
 # Nollan kommer på besök
 
 ## Praktisk information
+
+- **Programmets längd:** 75 minuter
+- **Max deltagande barn/elever:** 30
 
 ## Innehåll
 

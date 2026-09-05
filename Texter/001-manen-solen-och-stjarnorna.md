@@ -1,7 +1,11 @@
 ---
 expo_id: 1
 titel: "Månen, solen och stjärnorna"
-malgrupp: []
+malgrupp:
+  - forskoleklass
+  - ak_1
+  - ak_2
+  - ak_3
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +14,9 @@ nyckelord: []
 # Månen, solen och stjärnorna
 
 ## Praktisk information
+
+- **Programmets längd:** 75 minuter
+- **Max deltagande barn/elever:** 30
 
 ## Innehåll
 

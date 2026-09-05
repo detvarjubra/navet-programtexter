@@ -1,7 +1,10 @@
 ---
 expo_id: 124
 titel: "MOBILT Varför piper det?"
-malgrupp: []
+malgrupp:
+  - ak_7
+  - ak_8
+  - ak_9
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +13,9 @@ nyckelord: []
 # MOBILT Varför piper det?
 
 ## Praktisk information
+
+- **Programmets längd:** 60 minuter
+- **Max deltagande barn/elever:** 100
 
 ## Innehåll
 

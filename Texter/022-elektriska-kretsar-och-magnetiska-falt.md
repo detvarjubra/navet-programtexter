@@ -1,7 +1,10 @@
 ---
 expo_id: 22
 titel: "Elektriska kretsar och magnetiska fält"
-malgrupp: []
+malgrupp:
+  - ak_4
+  - ak_5
+  - ak_6
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +13,9 @@ nyckelord: []
 # Elektriska kretsar och magnetiska fält
 
 ## Praktisk information
+
+- **Programmets längd:** 90 minuter
+- **Max deltagande barn/elever:** 30
 
 ## Innehåll
 

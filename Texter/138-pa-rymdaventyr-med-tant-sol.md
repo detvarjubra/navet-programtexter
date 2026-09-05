@@ -1,7 +1,9 @@
 ---
 expo_id: 138
 titel: "På rymdäventyr med Tant Sol"
-malgrupp: []
+malgrupp:
+  - forskola
+fran_alder: 5
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +12,9 @@ nyckelord: []
 # På rymdäventyr med Tant Sol
 
 ## Praktisk information
+
+- **Programmets längd:** 45 minuter
+- **Max deltagande barn/elever:** 20
 
 ## Innehåll
 

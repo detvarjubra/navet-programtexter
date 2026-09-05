@@ -1,7 +1,13 @@
 ---
 expo_id: 16
 titel: "MOBILT Utomhusprogram - De fem mäktiga"
-malgrupp: []
+malgrupp:
+  - ak_1
+  - ak_2
+  - ak_3
+  - ak_4
+  - ak_5
+  - ak_6
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +16,9 @@ nyckelord: []
 # MOBILT Utomhusprogram - De fem mäktiga
 
 ## Praktisk information
+
+- **Programmets längd:** cirka 60 minuter
+- **Max deltagande barn/elever:** 100
 
 ## Innehåll
 

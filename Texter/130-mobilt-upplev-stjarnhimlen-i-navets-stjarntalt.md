@@ -1,7 +1,11 @@
 ---
 expo_id: 130
 titel: "MOBILT Upplev stjärnhimlen i Navets stjärntält"
-malgrupp: []
+malgrupp:
+  - forskoleklass
+  - ak_1
+  - ak_2
+  - ak_3
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +14,9 @@ nyckelord: []
 # MOBILT Upplev stjärnhimlen i Navets stjärntält
 
 ## Praktisk information
+
+- **Programmets längd:** 40 minuter
+- **Max deltagande barn/elever:** 100
 
 ## Innehåll
 

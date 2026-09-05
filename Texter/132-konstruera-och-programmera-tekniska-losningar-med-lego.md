@@ -1,7 +1,10 @@
 ---
 expo_id: 132
 titel: "Konstruera och programmera tekniska lösningar med LEGO®"
-malgrupp: []
+malgrupp:
+  - ak_7
+  - ak_8
+  - ak_9
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +13,9 @@ nyckelord: []
 # Konstruera och programmera tekniska lösningar med LEGO®
 
 ## Praktisk information
+
+- **Programmets längd:** 75 minuter
+- **Max deltagande barn/elever:** 20
 
 ## Innehåll
 

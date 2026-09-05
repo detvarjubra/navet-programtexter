@@ -1,7 +1,9 @@
 ---
 expo_id: 8
 titel: "Digestiva och matens väg genom kroppen"
-malgrupp: []
+malgrupp:
+  - ak_2
+  - ak_3
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +12,9 @@ nyckelord: []
 # Digestiva och matens väg genom kroppen
 
 ## Praktisk information
+
+- **Programmets längd:** 60 minuter
+- **Max deltagande barn/elever:** 30
 
 ## Innehåll
 

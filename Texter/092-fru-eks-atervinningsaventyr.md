@@ -1,7 +1,11 @@
 ---
 expo_id: 92
 titel: "Fru Eks återvinningsäventyr"
-malgrupp: []
+malgrupp:
+  - forskola
+  - anpassad_grundskola
+  - anpassad_gymnasieskola
+fran_alder: 4
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +14,9 @@ nyckelord: []
 # Fru Eks återvinningsäventyr
 
 ## Praktisk information
+
+- **Programmets längd:** 60 minuter
+- **Max deltagande barn/elever:** 20
 
 ## Innehåll
 

@@ -1,7 +1,10 @@
 ---
 expo_id: 118
 titel: "MOBILT Designa med laser!"
-malgrupp: []
+malgrupp:
+  - ak_7
+  - ak_8
+  - ak_9
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +13,9 @@ nyckelord: []
 # MOBILT Designa med laser!
 
 ## Praktisk information
+
+- **Programmets längd:** cirka 90 minuter
+- **Max deltagande barn/elever:** 100
 
 ## Innehåll
 

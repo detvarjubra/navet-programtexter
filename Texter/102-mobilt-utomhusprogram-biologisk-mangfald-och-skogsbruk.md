@@ -1,7 +1,8 @@
 ---
 expo_id: 102
 titel: "MOBILT Utomhusprogram Biologisk mångfald och skogsbruk"
-malgrupp: []
+malgrupp:
+  - gymnasiet
 amnen: []
 teman: []
 nyckelord: []
@@ -10,6 +11,9 @@ nyckelord: []
 # MOBILT Utomhusprogram Biologisk mångfald och skogsbruk
 
 ## Praktisk information
+
+- **Programmets längd:** 90 minuter
+- **Max deltagande barn/elever:** 100
 
 ## Innehåll
 

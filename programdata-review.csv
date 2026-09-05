@@ -1,0 +1,38 @@
+expo_id,titel,malgrupp,max_deltagare,programlangd_min,total_besokstid_min,kommentar
+1,"Månen, solen och stjärnorna",F-3,30,75,90,"Excel anger ""90 (75)""; kolumnen ?vrigt anger 75 minuter programtid och d?refter en kvart i annan avdelning. Excel anger antal elever: ""5-30 hård gräns"". Excel, ?vrigt: Programmet är 75 minuter och vi erbjuder sedan en kvart i en annan avdelning"
+3,Kemibus med draken Berta,"från 4 år, Anp gr / anp gy",16,60,90,"GRANSKA: Excel anger ""90 program varav ca 30 fritt""; programtid har tolkats som cirka 60 minuter och total besokstid som 90 minuter. Excel anger antal elever: ""5-12 Hård gräns vid en pedagog, annars upp till 16 barn vid två ped""."
+5,De Globala målen - vägen till en hållbar framtid,Åk 7-9 + gy,30,75,75,"Excel anger antal elever: ""5-30 men vid fler än 25 behövs annan lokal än Landa t ex Insperia""."
+6,Utblick i universum,7-9 + gy,30,60,60,"GRANSKA: Excel inneh?ller tv? rader f?r Expo-ID 6. De relevanta f?lten ?r lika, men en rad har ?vrigt: ""Skruva p? inneh?ll i f?rh?llande till l?roplanen. ?ndra texten""."
+7,Träffa skelettet Benny,F-1,30,60,75,"Excel anger ""75 (60)""; kolumnen ?vrigt anger 60 minuter programtid och d?refter en kvart i annan avdelning. Excel anger antal elever: ""5-30 hård gräns"". Excel, ?vrigt: Programmet är 60 minuter och vi erbjuder sedan en kvart i en annan avdelning"
+8,Digestiva och matens väg genom kroppen,2-3,30,60,75,"Excel anger ""75 (60)""; kolumnen ?vrigt anger 60 minuter programtid och d?refter en kvart i annan avdelning. Excel anger antal elever: ""5-30 hård gräns"". Excel, ?vrigt: Programmet är 60 minuter och vi erbjuder sedan en kvart i en annan avdelning"
+10,Nollan kommer på besök,F-1,30,75,90,"Excel anger ""90 (75)""; kolumnen ?vrigt anger 75 minuter programtid och d?refter en kvart i annan avdelning. Excel anger antal elever: ""5-30 hård gräns"". Excel, ?vrigt: Programmet är 75 minuter och vi erbjuder sedan en kvart i en annan avdelning"
+11,Kemiexperiment med draken Berta,F-3,24,75,90,"Excel anger ""90 (75)""; kolumnen ?vrigt anger 75 minuter programtid och d?refter en kvart i annan avdelning. Excel anger antal elever: ""5-24 hård gräns"". Excel, ?vrigt: Programmet är 75 minuter och vi erbjuder sedan en kvart i en annan avdelning"
+12,Kemiutmaningen,4-7,24,90,90,"Excel anger antal elever: ""5-24 hård gräns""."
+13,Historien om metern,2-3,30,75,90,"Excel anger ""90 (75)""; kolumnen ?vrigt anger 75 minuter programtid och d?refter en kvart i annan avdelning. Excel anger antal elever: ""5-30 hård gräns"". Excel, ?vrigt: Programmet är 75 minuter och vi erbjuder sedan en kvart i en annan avdelning"
+14,MOBILT Utomhusprogram - Svampar och nedbrytning,F-6,100,60,60,"GRANSKA: Excel anger ""ca 60""; tiden ?r ungef?rlig."
+16,MOBILT Utomhusprogram - De fem mäktiga,1-6,100,60,60,"GRANSKA: Excel inneh?ller tv? rader f?r Expo-ID 16 med olika programtid: ""ca 60"" och ""60"". Normaliserad tid ?r 60 minuter; kontrollera om tiden ska anges som ungef?rlig."
+17,MOBILT Utomhusprogram Matematik i rörelse: Lekar och utmaningar ,F-3,100,60,60,"GRANSKA: Excel anger ""ca 60""; tiden ?r ungef?rlig."
+20,Nyfiken på rymden,4-6,30,90,90,"Excel anger antal elever: ""5-30 hård gräns""."
+21,Vår fascinerande kropp,4-6,30,90,90,"Excel anger antal elever: ""5-30 hård gräns""."
+22,Elektriska kretsar och magnetiska fält,4-6,30,90,90,"Excel anger antal elever: ""5-30 hård gräns"". Excel, ?vrigt: Innehållet/aktiviteterna ändras till viss del inför hösten. Fedoua och Nina"
+27,Hjälp Al-Khwarizmi att lösa problem,4-6,30,90,90,"Excel anger antal elever: ""5-30 hård gräns""."
+32,Upptäck matematikens magi,7-9 + gy,30,90,90,"Excel anger antal elever: ""5-30 hård gräns""."
+33,Kistans mysterium - Digitalt,4-6,,75,75,GRANSKA: Maxantal saknas eller kan inte avg?ras s?kert i Excel.
+54,Det brinner!,5-7,24,90,90,"Excel anger antal elever: ""5-24 hård gräns"". Excel, ?vrigt: OBS bara för Borås |  | Kommunicera särskilt kring detta"
+79,"MOBILT Kolla, jag kan programmera!",4-6,100,60,60,
+92,Fru Eks återvinningsäventyr,"från 4 år, Anp gr / anp gy",20,60,60,"Excel, ?vrigt: Addera memory samt sopbilsfilm"
+93,Tundas fysikcirkus,"från 3 år, Anp gr / anp gy",16,60,60,
+102,Biologisk mångfald och skogsbruk,Gy,100,90,90,
+110,DIGITALT Bertas matematikkalas,"från 3 år, Anp gr / anp gy",,30,30,"GRANSKA: Maxantal saknas eller kan inte avg?ras s?kert i Excel. Excel, ?vrigt: NYTT - 2 datum |  | Resurserna bokas upp längre tid |  | Nina kan inte köra för hon är med i filmen"
+116,MOBILT Ekens escape box - jakten på mångfald,4-7,100,60,60,
+118,MOBILT Designa med laser!,åk 7-9,100,,,"GRANSKA: Oklar programtid i Excel: ""gärna 90 min efter övernskommelse""."
+121,MOBILT När livet formas av miljön - djurs och växters anpassningar,Åk 2-6,100,60,60,"GRANSKA: Excel anger ""ca 60""; tiden ?r ungef?rlig."
+122,Bygg och programmera med LEGO® ,Åk 1-3,30,75,90,"Excel anger ""90 (75)""; kolumnen ?vrigt anger 75 minuter programtid och d?refter en kvart i annan avdelning. Excel anger antal elever: ""5-30 hård gräns"". Excel, ?vrigt: Programmet är 75 minuter och vi erbjuder sedan en kvart i en annan avdelning |  | Kolla när det krockar inför lov"
+123,LEGO® - bygg och programmera robotar,Åk 4-6,25,90,90,"Excel, ?vrigt: Kolla när det krockar inför lov"
+124,MOBILT Varför piper det?,7-9,100,60,60,
+130,MOBILT Stjärntältet NAVET 30 år,F-3,100,40,40,"Excel, ?vrigt: OBS krav på lokaler"
+131,Ljus - Navet 30 år,4-6,30,90,90,"Excel anger antal elever: ""5-30 hård gräns""."
+132,Konstruera och programmera tekniska lösningar med LEGO®,åk 7-9,20,75,75,"Excel anger antal elever: ""5-20 hård gräns"". Excel, ?vrigt: Låter det vara kvar men under hösten undersöker vi om vi ska skruva på innehållet. |  | Kolla när det krockar inför lov"
+134,Krimlabb Navet 30 år,Åk 9 + gy,24,60,60,"Excel anger antal elever: ""5-24 hård gräns""."
+138,På rymdäventyr med Tant Sol,de som ska börja F-klass,20,60,60,
+140,MOBILT Utomhusprogram - Djur och växter i skogen,F-6,100,60,60,"GRANSKA: Excel anger ""ca 60""; tiden ?r ungef?rlig. Excel, ?vrigt: NYTT PROGRAM! - Erik och Jossan vet mer"

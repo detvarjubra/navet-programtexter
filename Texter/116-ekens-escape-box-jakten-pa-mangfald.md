@@ -14,9 +14,10 @@ nyckelord: []
 # Ekens escape box - jakten på mångfald
 
 ## Praktisk information
-
 - **Besökets längd:** 60 minuter
 - **Max deltagande barn/elever:** 100
+- Vi önskar få tillgång till skärm/projektor i klassrummet, och gärna en whiteboard.
+- Vi önskar få vara i samma lokal hos er under hela besöket.
 
 ## Innehåll
 

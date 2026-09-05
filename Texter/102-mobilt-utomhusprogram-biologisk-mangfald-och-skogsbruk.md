@@ -11,7 +11,6 @@ nyckelord: []
 # MOBILT Utomhusprogram Biologisk mångfald och skogsbruk
 
 ## Praktisk information
-
 - **Besökets längd:** 90 minuter
 - **Max deltagande barn/elever:** 100
 

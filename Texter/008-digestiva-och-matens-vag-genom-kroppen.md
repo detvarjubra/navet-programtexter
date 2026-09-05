@@ -12,9 +12,12 @@ nyckelord: []
 # Digestiva och matens väg genom kroppen
 
 ## Praktisk information
-
 - **Besökets längd:** 75 minuter
 - **Max deltagande barn/elever:** 30
+- Besöket är i vår utställning Humana som är belägen på våning 1.
+- Eleverna behåller skor på i entrén, men tar av sig skorna utanför Humana.
+- Eleverna sitter på en matta under vår inledning.
+- I början av skolprogrammet får eleverna en liten bit hårt bröd att tugga på.
 
 ## Innehåll
 

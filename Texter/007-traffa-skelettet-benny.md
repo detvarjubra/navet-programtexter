@@ -12,9 +12,11 @@ nyckelord: []
 # Träffa skelettet Benny
 
 ## Praktisk information
-
 - **Besökets längd:** 75 minuter
 - **Max deltagande barn/elever:** 30
+- Besöket är i vår utställning Humana som är belägen på våning 1.
+- Eleverna behåller skor på i entrén, men tar av sig skorna utanför Humana.
+- Eleverna sitter på en matta under vår inledning.
 
 ## Innehåll
 

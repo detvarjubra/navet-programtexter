@@ -13,9 +13,12 @@ nyckelord: []
 # Bygg och programmera med LEGO®
 
 ## Praktisk information
-
 - **Besökets längd:** 90 minuter
 - **Max deltagande barn/elever:** 30
+- Skolprogrammet äger rum på Navets entréplan.
+- Under inledningen sitter barnen i en gradäng vid en liten scen, därefter sker bygge och programmering i ett separat rum.
+- Vi använder Chromebooks tillsammans med mus som styrdon.
+- Eleverna jobbar två och två. Vid udda antal elever föreslår vi att ett barn jobbar själv med en vuxen. Det går att jobba tre också, men med risk för att en blir utanför.
 
 ## Innehåll
 

@@ -14,9 +14,12 @@ nyckelord: []
 # MOBILT Utomhusprogram - Matematik i rörelse
 
 ## Praktisk information
-
 - **Besökets längd:** cirka 60 minuter
 - **Max deltagande barn/elever:** 100
+- Besöket är på plats ute hos er.
+- Vi behöver en öppen yta att leka/springa på, tex en fotbollsplan eller annan gräsplan.
+- Barnen kommer röra på sig och springa.
+- Det här skolprogrammet går att genomföra i varierat väder.
 
 ## Innehåll
 

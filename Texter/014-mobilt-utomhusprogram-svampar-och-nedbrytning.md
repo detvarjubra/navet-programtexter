@@ -17,9 +17,13 @@ nyckelord: []
 # MOBILT Utomhusprogram - Svampar och nedbrytning
 
 ## Praktisk information
-
 - **Besökets längd:** cirka 60 minuter
 - **Max deltagande barn/elever:** 100
+- Besöket är på plats ute hos er eller uppe vid vår naturskola belägen på Ramshulan.
+- Vi behöver tillgång till en barrskog (inte ungskog).
+- Barnen kommer att gå förhållandevis fritt så de är bra om de känner till skogen och vilka gränser som finns.
+- Svamptillgången varierar med vädret som har varit. Vissa skogar är torkkänsligare än andra, så vid torrt väder vill vi genomföra övningarna i blötare skog.
+- Det här skolprogrammet går att genomföra i varierat väder.
 
 ## Innehåll
 

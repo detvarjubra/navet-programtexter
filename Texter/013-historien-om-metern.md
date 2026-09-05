@@ -12,9 +12,10 @@ nyckelord: []
 # Historien om metern
 
 ## Praktisk information
-
 - **Besökets längd:** 90 minuter
 - **Max deltagande barn/elever:** 30
+- Besöket är i vår utställning Matemagica som är belägen på våning 2, hiss finns.
+- Eleverna kommer delas upp i 2 eller 3 grupper för att sedan testa på att uppskatta: tid, vikt och längd.
 
 ## Innehåll
 

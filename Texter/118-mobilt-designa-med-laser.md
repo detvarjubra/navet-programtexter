@@ -13,9 +13,13 @@ nyckelord: []
 # MOBILT Designa med laser!
 
 ## Praktisk information
-
 - **Besökets längd:** cirka 90 minuter
 - **Max deltagande barn/elever:** 100
+- Vi önskar få tillgång till skärm/projektor i klassrummet, och gärna en whiteboard.
+- Vi önskar få vara i samma lokal hos er under hela besöket då det tar tid att flytta laserskärarna.
+- Laserskärarna ger ifrån sig rök när de skär genom materialet. Om det finns tillgång till luftsug som till exempel i en kemisal så är det att föredra, annars behöver vi ha möjlighet att öppna ett fönster för att avleda röken.
+- Eleverna designar på sina egna datorer – kontrollerna gärna att de är laddade.
+- Vi använder ett webbaserat ritverktyg från fluxlasers som också tillverkar laserskärarna vi har med.
 
 ## Innehåll
 

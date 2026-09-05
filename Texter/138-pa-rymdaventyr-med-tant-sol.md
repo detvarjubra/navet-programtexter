@@ -12,9 +12,12 @@ nyckelord: []
 # På rymdäventyr med Tant Sol
 
 ## Praktisk information
-
 - **Besökets längd:** 60 minuter
 - **Max deltagande barn/elever:** 20
+- Besöket är i vår utställning Astronoma som är belägen på våning 2 – det finns hiss.
+- Astronoma är en utställningsmiljö som kan upplevas som något mörkare än vanligt.
+- Under skolbesöket kommer vi att spränga en vätgasballong, det innebär att det blir en hög smäll som kan upplevas som obehaglig.
+- Det förekommer ballonger i introduktionen.
 
 ## Innehåll
 

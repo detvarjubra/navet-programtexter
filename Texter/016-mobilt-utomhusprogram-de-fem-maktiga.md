@@ -16,9 +16,13 @@ nyckelord: []
 # MOBILT Utomhusprogram - De fem mäktiga
 
 ## Praktisk information
-
 - **Besökets längd:** cirka 60 minuter
 - **Max deltagande barn/elever:** 100
+- Besöket är på plats ute hos er eller uppe vid vår naturskola belägen på Ramshulan.
+- Det förekommer tunga vattendunkar som barnen ska förflytta under programmets gång.
+- Om vi är ute på plats hos er behöver vi ett område som inte störs när övriga elever är ute på rast.
+- På platsen för genomförandet behöver det finnas något att hänga upp rep i, tex. träd, samt något större sten och/eller parkbänk.
+- Eleverna kommer att jobba i smågrupper under skolprogrammet.
 
 ## Innehåll
 

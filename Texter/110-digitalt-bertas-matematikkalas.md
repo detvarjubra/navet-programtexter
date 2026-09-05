@@ -14,7 +14,6 @@ nyckelord: []
 # DIGITALT Bertas matematikkalas
 
 ## Praktisk information
-
 - **Besökets längd:** 30 minuter
 
 ## Innehåll

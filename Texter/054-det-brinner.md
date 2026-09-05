@@ -13,7 +13,6 @@ nyckelord: []
 # Det brinner!
 
 ## Praktisk information
-
 - **Besökets längd:** 90 minuter
 - **Max deltagande barn/elever:** 24
 

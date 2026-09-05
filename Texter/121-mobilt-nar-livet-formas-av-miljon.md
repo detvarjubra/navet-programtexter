@@ -15,9 +15,11 @@ nyckelord: []
 # MOBILT När livet formas av miljön
 
 ## Praktisk information
-
 - **Besökets längd:** cirka 60 minuter
 - **Max deltagande barn/elever:** 100
+- Programmet är ca 50 min långt, det behövs 15 min mellan grupperna för att återställa.
+- Vi önskar tillgång till projektor och gärna till vatten Vi önskar vara i samma klassrum under hela besöket.
+- Dela klassen i 6 st. grupper införbesöket.
 
 ## Innehåll
 

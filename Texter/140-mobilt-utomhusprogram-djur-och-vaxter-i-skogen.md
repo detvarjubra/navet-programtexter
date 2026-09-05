@@ -17,9 +17,11 @@ nyckelord: []
 # MOBILT Utomhusprogram - Djur och växter i skogen
 
 ## Praktisk information
-
 - **Besökets längd:** cirka 60 minuter
 - **Max deltagande barn/elever:** 100
+- Besöket är på plats ute hos er eller uppe vid vår naturskola belägen på Ramshulan.
+- Barnen kommer att gå förhållandevis fritt så det är bra om de känner till skogen och vilka gränser som finns.
+- Det här skolprogrammet går att genomföra i varierat väder.
 
 ## Innehåll
 

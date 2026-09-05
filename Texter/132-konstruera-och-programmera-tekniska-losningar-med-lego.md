@@ -13,7 +13,6 @@ nyckelord: []
 # Konstruera och programmera tekniska lösningar med LEGO®
 
 ## Praktisk information
-
 - **Besökets längd:** 75 minuter
 - **Max deltagande barn/elever:** 20
 

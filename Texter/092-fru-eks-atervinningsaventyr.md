@@ -14,7 +14,6 @@ nyckelord: []
 # Fru Eks återvinningsäventyr
 
 ## Praktisk information
-
 - **Besökets längd:** 60 minuter
 - **Max deltagande barn/elever:** 20
 

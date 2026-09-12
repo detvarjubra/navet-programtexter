@@ -8,13 +8,13 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 90
+max_deltagare: 24
 ---
 
 # Det brinner!
 
 ## Praktisk information
-- **Besökets längd:** 90 minuter
-- **Max deltagande barn/elever:** 24
 
 ## Innehåll
 

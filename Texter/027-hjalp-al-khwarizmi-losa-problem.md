@@ -8,13 +8,13 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 90
+max_deltagare: 30
 ---
 
 # Hjälp al-Khwarizmi lösa problem
 
 ## Praktisk information
-- **Besökets längd:** 90 minuter
-- **Max deltagande barn/elever:** 30
 - Besöket är i vår utställning Matemagica som är belägen på våning 2, hiss finns.
 - Eleverna kommer att få lösa problem i par. Efter att de löst ett problem får de en ny klasskompis att lösa problem med. Paren byts ut under tiden. Vi på Navet fixar detta.
 

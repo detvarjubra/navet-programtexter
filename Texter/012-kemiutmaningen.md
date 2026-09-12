@@ -9,13 +9,13 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 90
+max_deltagare: 24
 ---
 
 # Kemiutmaningen
 
 ## Praktisk information
-- **Besökets längd:** 90 minuter
-- **Max deltagande barn/elever:** 24
 - Skolprogrammet äger rum i en kemisal på entréplan.
 - Laborationerna genomförs vid ståbord. Ett höj- och sänkbart bord finns.
 - Vi hanterar vardagskemikalier som brustabletter med C-vitamin, citronsyra och bikarbonat, samt karamellfärg.

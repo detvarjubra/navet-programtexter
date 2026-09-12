@@ -9,13 +9,13 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 40
+max_deltagare: 100
 ---
 
 # MOBILT Upplev stjärnhimlen i Navets stjärntält
 
 ## Praktisk information
-- **Besökets längd:** 40 minuter
-- **Max deltagande barn/elever:** 100
 - Besöket är på plats ute hos er. Vi behöver tillgång till en stor lokal, helst en gympasal, för att stjärntältet ska få plats.
 - Inne i stjärntältet förstärks ljud. Därför är det av stor vikt att barnen inte pratar rakt ut eller med varandra.
 

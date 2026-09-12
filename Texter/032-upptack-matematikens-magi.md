@@ -10,13 +10,13 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 90
+max_deltagare: 30
 ---
 
 # Upptäck matematikens magi
 
 ## Praktisk information
-- **Besökets längd:** 90 minuter
-- **Max deltagande barn/elever:** 30
 - Besöket är i vår utställning Matemagica som är belägen på våning 2, hiss finns.
 - Eleverna kommer få göra olika övningar i mindre grupper eller par. Vi delar in eleverna i par, läraren hjälper till att göra mindre grupper på plats.
 

@@ -23,13 +23,14 @@ nyckelord:
   - Galileo Galilei
   - Margaret Hamilton
   - Ljus
+besokets_langd: 90
+pedagogledd_tid: 75
+max_deltagare: 30
 ---
 
 # Månen, solen och stjärnorna
 
 ## Praktisk information
-- **Besökets längd:** 90 minuter
-- **Max deltagande barn/elever:** 30
 - Besöket sker i vår utställning Astronoma på våning 2 – det finns hiss.
 - Astronoma är en utställningsmiljö som kan upplevas som något mörkare än vanligt.
 - Under skolbesöket kommer vi att spränga en vätgasballong, det innebär att det blir en hög smäll som kan upplevas som obehaglig.

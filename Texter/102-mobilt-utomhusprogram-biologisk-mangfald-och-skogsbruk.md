@@ -6,13 +6,13 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 90
+max_deltagare: 100
 ---
 
 # MOBILT Utomhusprogram Biologisk mångfald och skogsbruk
 
 ## Praktisk information
-- **Besökets längd:** 90 minuter
-- **Max deltagande barn/elever:** 100
 
 ## Innehåll
 

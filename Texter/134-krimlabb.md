@@ -7,13 +7,13 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 60
+max_deltagare: 24
 ---
 
 # Krimlabb
 
 ## Praktisk information
-- **Besökets längd:** 60 minuter
-- **Max deltagande barn/elever:** 24
 - Inför besöket får eleverna ta del av ett bildspel som sätter dem in i bakgrunden till fallet med Direktör S. Vindel.
 - Väl på plats i krimlabbet delas eleverna in i sex grupper. Varje grupp undersöker olika delar av den eventuella brottsplatsen och samlar ledtrådar som kan hjälpa dem att lösa fallet.
 - För att komma igång så smidigt som möjligt är det bra om du har delat in klassen i sex grupper som fungerar bra ihop.

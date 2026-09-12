@@ -12,13 +12,13 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 60 # cirka
+max_deltagare: 100
 ---
 
 # MOBILT Utomhusprogram - Svampar och nedbrytning
 
 ## Praktisk information
-- **Besökets längd:** cirka 60 minuter
-- **Max deltagande barn/elever:** 100
 - Besöket är på plats ute hos er eller uppe vid vår naturskola belägen på Ramshulan.
 - Vi behöver tillgång till en barrskog (inte ungskog).
 - Barnen kommer att gå förhållandevis fritt så de är bra om de känner till skogen och vilka gränser som finns.

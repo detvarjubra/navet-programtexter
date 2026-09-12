@@ -9,12 +9,12 @@ fran_alder: 3
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 30
 ---
 
 # DIGITALT Bertas matematikkalas
 
 ## Praktisk information
-- **Besökets längd:** 30 minuter
 
 ## Innehåll
 

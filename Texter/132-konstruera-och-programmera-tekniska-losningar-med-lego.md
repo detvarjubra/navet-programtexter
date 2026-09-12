@@ -8,13 +8,13 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 75
+max_deltagare: 20
 ---
 
 # Konstruera och programmera tekniska lösningar med LEGO®
 
 ## Praktisk information
-- **Besökets längd:** 75 minuter
-- **Max deltagande barn/elever:** 20
 
 ## Innehåll
 

@@ -8,13 +8,13 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 90
+max_deltagare: 30
 ---
 
 # Elektriska kretsar och magnetiska fält
 
 ## Praktisk information
-- **Besökets längd:** 90 minuter
-- **Max deltagande barn/elever:** 30
 - Skolprogrammet genomförs i Fenomena och ute i utställningen Mechanica. Dessa ligger på våning 2. (Hiss finns.).
 - Fenoma är ett helt svartmålat rum med gradäng. I inledningen av skolprogrammet kommer vi att släcka ned helt till totalt mörker under några få minuter.
 - Det förekommer blixtar (bandgenerator).

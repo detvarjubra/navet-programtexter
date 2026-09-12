@@ -9,13 +9,14 @@ fran_alder: 4
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 60
+pedagogledd_tid: 45
+max_deltagare: 20
 ---
 
 # Fru Eks återvinningsäventyr
 
 ## Praktisk information
-- **Besökets längd:** 60 minuter
-- **Max deltagande barn/elever:** 20
 
 ## Innehåll
 

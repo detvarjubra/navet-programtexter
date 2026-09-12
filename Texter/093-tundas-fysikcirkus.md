@@ -9,13 +9,14 @@ fran_alder: 3
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 60
+pedagogledd_tid: 45
+max_deltagare: 16
 ---
 
 # Tundas fysikcirkus
 
 ## Praktisk information
-- **Besökets längd:** 60 minuter
-- **Max deltagande barn/elever:** 16
 - Besöket är i vår utställning Upptecha som är belägen på våning 2 – det finns hiss.
 - Det förekommer en clown samt ballonger under introduktionen.
 - Barnen kommer delas in i smågrupper efter introduktionen.

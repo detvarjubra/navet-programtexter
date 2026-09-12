@@ -9,13 +9,13 @@ fran_alder: 4
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 90
+max_deltagare: 16
 ---
 
 # Kemibus med draken Berta
 
 ## Praktisk information
-- **Besökets längd:** 90 minuter
-- **Max deltagande barn/elever:** 16
 - Upplägg för besöket: Saga med experiment.
 - Gemensamt experiment för hela gruppen Barnen tar på sig labbrockar och experimenterar själva Avslutande experiment tillsammans.
 - Programmet börjar i ”Bertas Grotta” där vi läser en saga och gör spännande experiment under berättelsens gång. Bland annat kommer en liten burk att skjutas iväg med en liten smäll och Berta kan även spruta eld. Om något barn är känsligt för höga ljud eller eld är det bra om ni förbereder dem på detta. Berätta gärna för oss om något barn är känsligt.

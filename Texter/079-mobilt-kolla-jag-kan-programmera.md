@@ -8,13 +8,13 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 60
+max_deltagare: 100
 ---
 
 # MOBILT Kolla, jag kan programmera!
 
 ## Praktisk information
-- **Besökets längd:** 60 minuter
-- **Max deltagande barn/elever:** 100
 - Vi önskar få tillgång till skärm/projektor i klassrummet, och gärna en whiteboard.
 - Vi önskar få vara i samma lokal hos er under hela besök, alternativt att det finns tillräckligt med tid mellan grupperna för att göra ett lokalbyte.
 - Eleverna kommer att få låna varsin Micro:bit med tillbehör.

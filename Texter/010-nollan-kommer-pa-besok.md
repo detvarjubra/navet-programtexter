@@ -7,13 +7,14 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 90
+pedagogledd_tid: 75
+max_deltagare: 30
 ---
 
 # Nollan kommer på besök
 
 ## Praktisk information
-- **Besökets längd:** 90 minuter
-- **Max deltagande barn/elever:** 30
 - Besöket är i vår utställning Matemagica som är belägen på våning 2, hiss finns.
 - Eleverna kommer få hjälpa al-Khwarizmi och Brahmagupta lösa problem i mindre grupper.
 

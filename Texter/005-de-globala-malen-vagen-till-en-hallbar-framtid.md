@@ -10,13 +10,13 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 75
+max_deltagare: 30
 ---
 
 # De globala målen - vägen till en hållbar framtid
 
 ## Praktisk information
-- **Besökets längd:** 75 minuter
-- **Max deltagande barn/elever:** 30
 - Besöket är i vår utställning Ecologica som är belägen på entréplan.
 - Eleverna kommer få göra olika övningar i mindre grupper eller par.
 

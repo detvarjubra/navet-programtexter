@@ -8,12 +8,12 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 75
 ---
 
 # DIGITALT Escape room - Kistans mysterium åk 4-6
 
 ## Praktisk information
-- **Besökets längd:** 75 minuter
 
 ## Innehåll
 

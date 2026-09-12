@@ -9,13 +9,13 @@ malgrupp:
 amnen: []
 teman: []
 nyckelord: []
+besokets_langd: 60 # cirka
+max_deltagare: 100
 ---
 
 # MOBILT Utomhusprogram - Matematik i rörelse
 
 ## Praktisk information
-- **Besökets längd:** cirka 60 minuter
-- **Max deltagande barn/elever:** 100
 - Besöket är på plats ute hos er.
 - Vi behöver en öppen yta att leka/springa på, tex en fotbollsplan eller annan gräsplan.
 - Barnen kommer röra på sig och springa.

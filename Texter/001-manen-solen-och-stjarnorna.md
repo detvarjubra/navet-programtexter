@@ -30,15 +30,25 @@ nyckelord:
 ## Praktisk information
 - **Besökets längd:** 90 minuter
 - **Max deltagande barn/elever:** 30
-- Besöket är i vår utställning Astronoma som är belägen på våning 2 – det finns hiss.
+- Besöket sker i vår utställning Astronoma på våning 2 – det finns hiss.
 - Astronoma är en utställningsmiljö som kan upplevas som något mörkare än vanligt.
 - Under skolbesöket kommer vi att spränga en vätgasballong, det innebär att det blir en hög smäll som kan upplevas som obehaglig.
 - Det förekommer ballonger i introduktionen.
 
 ## Innehåll
-Programmet behandlar solen, månen och stjärnorna med fokus på vårt solsystem och våra närmaste himlakroppar. Eleverna utforskar månens faser och möter astronomi genom dramatisering, experiment och aktiviteter i Astronoma. Programmet berör även månlandningen, Galileo Galilei, universum och fenomen kopplade till ljus.
+Programmet behandlar solen, månen och stjärnorna med fokus på vårt solsystem och våra närmaste himlakroppar. Eleverna utforskar månens faser och möter astronomi genom dramatisering, experiment och aktiviteter i Astronoma. Programmet berör även Margaret Hamilton, månlandningen, Galileo Galilei, universum och fenomen kopplade till ljus.
 
 ## Ny webbtext
+
+I Månen, solen och stjärnorna utforskar eleverna vårt solsystem och några av våra närmaste himlakroppar.
+
+Besöket börjar med att en entusiastisk men något stressad Galileo Galilei möter gruppen i Navets entré. Genom dramatisering och experiment utforskar eleverna vår plats i solsystemet och fenomen som tyngdkraft och friktion. De möter också berättelsen om månlandningen och får lära känna Margaret Hamilton och hennes betydelse för att människan kunde landa på månen.
+
+Tillsammans undersöker vi också månens faser och hur solen, jorden och månen förhåller sig till varandra. Eleverna får sedan utforska Astronoma och prova aktiviteter om rymden, universum och ljus.
+
+Programmet avslutas med en rymdresa i Navets planetarium.
+
+
 
 ## Befintlig webbtext
 

@@ -4,9 +4,21 @@ titel: "Träffa skelettet Benny"
 malgrupp:
   - forskoleklass
   - ak_1
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - biologi
+teman:
+  - människokroppen
+  - skelettet
+  - djur
+nyckelord:
+  - Skelett
+  - Ben
+  - Leder
+  - Brosk
+  - Kranier
+  - Människokroppen
+  - Djurskelett
+  - Rörelse
 besokets_langd: 75
 pedagogledd_tid: 60
 max_deltagare: 30

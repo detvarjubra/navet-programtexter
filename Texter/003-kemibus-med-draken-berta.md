@@ -6,9 +6,17 @@ malgrupp:
   - anpassad_grundskola
   - anpassad_gymnasieskola
 fran_alder: 4
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - kemi
+teman:
+  - kemi
+  - experiment
+nyckelord:
+  - Kemi
+  - Experiment
+  - Laboratorium
+  - Pipetter
+  - Vardagskemi
 besokets_langd: 90
 max_deltagare: 16
 ---
@@ -16,18 +24,23 @@ max_deltagare: 16
 # Kemibus med draken Berta
 
 ## Praktisk information
-- Upplägg för besöket: Saga med experiment.
-- Gemensamt experiment för hela gruppen Barnen tar på sig labbrockar och experimenterar själva Avslutande experiment tillsammans.
-- Programmet börjar i ”Bertas Grotta” där vi läser en saga och gör spännande experiment under berättelsens gång. Bland annat kommer en liten burk att skjutas iväg med en liten smäll och Berta kan även spruta eld. Om något barn är känsligt för höga ljud eller eld är det bra om ni förbereder dem på detta. Berätta gärna för oss om något barn är känsligt.
-- Under besöket får barnen träffa draken Berta. En busig liten handdocka som älskar kemi och experiment!
+
 - Besöket äger rum i en labbsal på entréplan.
-- Vi använder skyddsutrustning i form av labbrockar och eventuellt skyddsglasögon.
-- Vi använder vardagskemikalier som citronsyra, bikarbonat, brustabletter.
-- Berta kommer att spruta eld, och det kommer bli en liten smäll av en burk som skjuts iväg med koldioxid.
+- Barnen använder labbrockar och vid behov skyddsglasögon under experimenten.
+- I programmet förekommer en mindre smäll när en burk skjuts iväg med hjälp av koldioxid. Draken Berta sprutar också eld. Förbered gärna barn som är känsliga för höga ljud eller eld och berätta för oss om det finns något vi behöver känna till inför besöket.
+- I experimenten används bland annat vardagskemikalier som citronsyra, bikarbonat och brustabletter.
 
 ## Innehåll
 
+Programmet introducerar kemi genom berättande, demonstrationer och egna experiment. Barnen möter draken Berta och följer en saga där olika kemiska experiment blir en del av berättelsen. Därefter tar barnen på sig labbrockar och får själva experimentera med pipetter, vardagskemikalier och annan laboratorieutrustning. Programmet innehåller både gemensamma experiment och experiment som barnen genomför själva.
+
 ## Ny webbtext
+
+I *Kemibus med draken Berta* får barnen möta Berta och följa med på en saga fylld av kemi och bus. Under berättelsens gång leder Bertas påhitt vidare till olika kemiska experiment.
+
+Sedan är det barnens tur att bli kemister. De tar på sig labbrockar och får själva experimentera med provrör och vardagskemikalier. Tillsammans undersöker vi vad som händer och barnen får prova, observera och fundera över resultaten.
+
+Besöket avslutas med ett gemensamt experiment.
 
 ## Befintlig webbtext
 

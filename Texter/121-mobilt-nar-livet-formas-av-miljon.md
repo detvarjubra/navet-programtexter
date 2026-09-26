@@ -7,9 +7,22 @@ malgrupp:
   - ak_4
   - ak_5
   - ak_6
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - biologi
+teman:
+  - evolution
+  - anpassning
+  - biologisk mångfald
+nyckelord:
+  - Evolution
+  - Anpassning
+  - Livsmiljö
+  - Variation
+  - Arter
+  - Djur
+  - Växter
+  - Djurkranier
+  - Biologisk mångfald
 besokets_langd: 60 # cirka
 max_deltagare: 100
 ---
@@ -17,16 +30,27 @@ max_deltagare: 100
 # MOBILT När livet formas av miljön
 
 ## Praktisk information
-- Programmet är ca 50 min långt, det behövs 15 min mellan grupperna för att återställa.
-- Vi önskar tillgång till projektor och gärna till vatten Vi önskar vara i samma klassrum under hela besöket.
-- Dela klassen i 6 st. grupper införbesöket.
+
+- Programmet genomförs i ett klassrum på er skola.
+- Det behövs 15 minuter mellan grupperna för att återställa materialet.
+- Vi önskar tillgång till projektor och gärna till vatten.
+- Vi önskar vara i samma klassrum under hela besöket.
+- Dela klassen i sex grupper inför besöket.
+- Vi vill gärna genomföra programmet för minst tre klasser efter varandra under samma dag.
 
 ## Innehåll
 
+Programmet introducerar hur djur och växter är anpassade till olika livsmiljöer och ger en grund för att förstå evolution. Eleverna arbetar med begreppen anpassning, livsmiljö och variation genom observationer, samtal och experiment. Djurkranier, leksaksdjur och bilder används för att undersöka egenskaper, likheter och skillnader mellan arter samt variation mellan individer inom samma art.
+
 ## Ny webbtext
 
-## Befintlig webbtext
+Varför ser djur och växter ut som de gör, och hur hänger det ihop med miljön där de lever?
 
+I *När livet formas av miljön* utforskar eleverna hur djur och växter är anpassade till olika livsmiljöer. Genom observationer, samtal och experiment undersöker vi olika egenskaper och funderar över hur de kan vara till hjälp i den miljö där organismen lever.
+
+Med hjälp av bland annat djurkranier, leksaksdjur och bilder jämför vi olika arter och upptäcker både likheter och skillnader. Eleverna får möta begrepp som anpassning, livsmiljö och variation och undersöka hur individer inom samma art kan skilja sig från varandra.
+
+## Befintlig webbtext
 
 När livet formas av miljön - djurs och växters anpassningar
 

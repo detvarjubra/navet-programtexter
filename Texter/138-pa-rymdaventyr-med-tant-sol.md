@@ -24,6 +24,14 @@ max_deltagare: 20
 
 ## Ny webbtext
 
+Hur lyser månen? Vad gör solen hela dagen? Och hur tog sig människan ut i rymden?
+
+I *På rymdäventyr med Tant Sol* följer barnen med på en berättelse inspirerad av Lotta Geffenblads bok med samma namn. Tillsammans med Tant Sol och Månen utforskar vi rymden och funderar över dag och natt, rymdfärder, och månens faser.
+
+Genom berättande, rörelse, ljud och enkla experiment får barnen undersöka och uppleva några av de fenomen vi möter i berättelsen.
+
+*Text och bilder ur boken används med vänligt tillstånd av författaren.*
+
 ## Befintlig webbtext
 
 

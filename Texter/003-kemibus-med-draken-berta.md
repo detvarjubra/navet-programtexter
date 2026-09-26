@@ -17,7 +17,7 @@ nyckelord:
   - Laboratorium
   - Pipetter
   - Vardagskemi
-besokets_langd: 90
+besokets_langd: 90 (varav 75 pedagoglett)
 max_deltagare: 16
 ---
 
@@ -29,11 +29,12 @@ max_deltagare: 16
 - Barnen använder labbrockar och vid behov skyddsglasögon under experimenten.
 - I programmet förekommer en mindre smäll när en burk skjuts iväg med hjälp av koldioxid. Draken Berta sprutar också eld. Förbered gärna barn som är känsliga för höga ljud eller eld och berätta för oss om det finns något vi behöver känna till inför besöket.
 - I experimenten används bland annat vardagskemikalier som citronsyra, bikarbonat och brustabletter.
+- Det pedagogledda programmet är något kortare än 90 minuter och den sista stunden erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
 
 ## Innehåll
 
 Programmet introducerar kemi genom berättande, demonstrationer och egna experiment. Barnen möter draken Berta och följer en saga där olika kemiska experiment blir en del av berättelsen. Därefter tar barnen på sig labbrockar och får själva experimentera med pipetter, vardagskemikalier och annan laboratorieutrustning. Programmet innehåller både gemensamma experiment och experiment som barnen genomför själva.
-
+  
 ## Ny webbtext
 
 I *Kemibus med draken Berta* får barnen möta Berta och följa med på en saga fylld av kemi och bus. Under berättelsens gång leder Bertas påhitt vidare till olika kemiska experiment.

@@ -1,12 +1,15 @@
 ---
 expo_id: 24
 titel: "MOBILT Utomhusprogram - Skala ner"
-malgrupp: []
+malgrupp:
+  - ak_4
+  - ak_5
+  - ak_6
 amnen: []
 teman: []
 nyckelord: []
-besokets_langd:
-max_deltagare:
+besokets_langd: 60 # cirka
+max_deltagare: 100
 ---
 
 # MOBILT Utomhusprogram - Skala ner

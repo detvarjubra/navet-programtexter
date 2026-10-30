@@ -6,9 +6,21 @@ malgrupp:
   - ak_5
   - ak_6
   - ak_7
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - kemi
+teman:
+  - kemiska reaktioner
+  - naturvetenskapligt arbetssätt
+nyckelord:
+  - Problemlösning
+  - Experiment
+  - Laborationer
+  - Hypoteser
+  - Densitet
+  - pH
+  - Gaser
+  - Atomer och molekyler
+  - Kemiska reaktioner
 besokets_langd: 90
 max_deltagare: 24
 ---
@@ -17,23 +29,43 @@ max_deltagare: 24
 
 ## Praktisk information
 - Skolprogrammet äger rum i en kemisal på entréplan.
-- Laborationerna genomförs vid ståbord. Ett höj- och sänkbart bord finns.
-- Vi hanterar vardagskemikalier som brustabletter med C-vitamin, citronsyra och bikarbonat, samt karamellfärg.
-- I vår inledning använder vi äpple och potatis.
-- Vi jobbar i grupper. Vi gör gruppindelningen om du som lärare inte önskar specifika grupper.
-- Vi siktar på 3-4 elever i varje grupp, vi gör max 6 grupper.
+- Laborationerna genomförs vid ståbord. Ett höj- och sänkbart bord finns tillgängligt.
+- Eleverna arbetar i grupper om 3–4 personer, med högst sex grupper. Vi ansvarar för gruppindelningen om ni inte har särskilda önskemål.
+- Under programmet används bland annat vardagskemikalier som citronsyra, bikarbonat, brustabletter med C-vitamin och karamellfärg.
+- I inledningen används även äpple och potatis.
 
 ## Innehåll
+Eleverna möter Navets labbpersonal och får genom demonstrationer en introduktion till kemiska fenomen och metoder som de kan använda i sitt fortsatta arbete. Vi tar upp densitet, gastryck och pH-indikatorer.
+
+Därefter arbetar eleverna i mindre grupper med tre experiment att välja mellan. De får veta vilka ingredienser som ingår, men behöver själva undersöka hur de kan återskapa resultaten. Eleverna diskuterar, formulerar hypoteser, prövar olika tillvägagångssätt och drar slutsatser för att lösa uppgifterna.
+
+**Experiment som vi har använt:**
+
+- **Lavalampa** – bikarbonat, citronsyra, matolja och rödkålslösning.
+- **Expanderande ballong** – bikarbonat, citronsyra och vatten.
+- **Regnbågsrör** – socker och fyra olika karamellfärger.
+
+Grupperna väljer själva i vilken ordning de genomför experimenten och hinner vanligtvis med två av de tre utmaningarna. Efter varje experiment ska gruppen visa och förklara sin lösning för en av Navets pedagoger innan de går vidare till nästa.
+
+Programmet avslutas med en gemensam genomgång av experimenten och ett avslutande experiment med brustablettsraketer.
 
 ## Ny webbtext
+Kan ni lista ut hur ett experiment är gjort utan att få veta hur det går till?
+
+I *Kemiutmaningen* får eleverna ta rollen som kemister och lösa kluriga utmaningar i Navets laboratorium. Efter en introduktion med demonstrationer från våra pedagoger är det dags att ta på sig labbrockarna och sätta i gång!
+
+I mindre grupper får eleverna välja mellan tre kemiska utmaningar. De vet vilka ämnen som ingår, men måste själva lista ut hur experimenten ska genomföras. Genom att diskutera, ställa hypoteser, testa och dra slutsatser tränar de på ett naturvetenskapligt arbetssätt.
+
+När en grupp har löst en utmaning får de visa och förklara sin lösning för en av Navets pedagoger innan de går vidare till nästa. Längs vägen utforskar vi bland annat kemiska reaktioner, gas, densitet och surt och basiskt.
+
+Vi avslutar med en gemensam genomgång och ett sista experiment som bjuder på en överraskning!
 
 ## Ny planschtext
-
-## Befintlig planschtext
-
 Välkomna på ett kemiprogram som verkligen väcker experimentlusten! Genom att prova och testa får eleverna klura ut hur olika experiment är utförda.
 
-Ett kemiprogram som verkligen väcker experimentlusten! Genom att prova och testa får eleverna klura ut hur olika experiment är utförda.
+## Befintlig planschtext
+Välkomna på ett kemiprogram som verkligen väcker experimentlusten! Genom att prova och testa får eleverna klura ut hur olika experiment är utförda.
+
 
 ## Befintlig webbtext
 

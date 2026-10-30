@@ -30,14 +30,13 @@ max_deltagare: 30
 - Besöket sker i vår utställning Humana på våning 1.
 - Eleverna behåller skorna på i entrén men tar av dem innan de går in i Humana.
 - Under inledningen sitter eleverna tillsammans på en matta.
+- Besöket är 75 minuter, varav det pedagogledda programmet är 60 minuter. Under besökets sista 15 minuter erbjuds ni att utforska en annan avdelning på Navet på egen hand.
 
 ## Innehåll
-
 Programmet behandlar människans skelett och hur det är uppbyggt. Eleverna undersöker ben, leder och brosk och tittar bland annat på kroppens största och minsta ben. Genom rörelse utforskar eleverna var många av kroppens ben finns och hur skelettet är ledat. Människans skelett jämförs med skelett från hund och katt för att upptäcka likheter och skillnader. Programmet berör även djurkranier och innehåller tid för eget utforskande i Humana.
 
 
 ## Ny webbtext
-
 Vad har vi egentligen skelettet till, och ser våra ben likadana ut som djurens?
 
 I *Träffa skelettet Benny* får eleverna lära känna människans skelett tillsammans med Benny. Till en början är Benny lite blyg, men när han väl vågar komma fram har han mycket att visa! Vi undersöker ben, leder och brosk och letar efter kroppens största och minsta ben. Vi använder hela kroppen för att upptäcka var några av våra många ben finns.
@@ -47,17 +46,15 @@ Eleverna får också möta skelett från hund och katt och tillsammans jämför 
 Efter inledningen med Benny får eleverna utforska Humana och prova olika aktiviteter om människokroppen. Besöket avslutas gemensamt, där vi bland annat undersöker några av Navets djurkranier.
 
 ## Ny planschtext
+Hur många ben har vi i kroppen och vad skulle hända utan dem? Tillsammans med skelettet Benny utforskar vi våra ben och leder. Vi jämför också människans skelett med djurens – hur lika är vi egentligen?
 
 ## Befintlig planschtext
-
 I detta skolprogram får eleverna utforska människokroppen genom att träffa Benny – ett skelett, och undersöka kroppens funktioner, organ och sinnesintryck på ett lekfullt sätt.
 
 ## Befintlig webbtext
-
 Träffa skelettet Benny är ett spännande och lärorikt skolprogram där eleverna får möjlighet att utforska människokroppens mysterier på ett engagerande och interaktivt sätt. Programmet är utformat för att väcka nyfikenhet och ge en djupare förståelse för hur vår kropp fungerar.
 
 Under programmet får eleverna träffa _Benny_, ett livligt och pedagogiskt skelett, som leder dem genom en upptäcktsresa där de lär sig om skelettets uppbyggnad och funktion. Tillsammans med Benny får eleverna förstå hur skelettet stödjer kroppen, skyddar viktiga organ och möjliggör rörelse. De får även lära sig om några av de organ som Benny saknar.
 
 Därefter fortsätter äventyret i Navets avdelning om människokroppen. Här får eleverna möjlighet att interagera med en rad experiment och aktiviteter som belyser människokroppens fascinerande funktioner. Skolprogrammet avslutas med en gemensam aktivitet.
 
-Det pedagogledda programmet är 60 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.

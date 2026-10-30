@@ -4,9 +4,20 @@ titel: "Nollan kommer på besök"
 malgrupp:
   - forskoleklass
   - ak_1
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - matematik
+teman:
+  - problemlösning
+  - matematikens historia
+  - logiskt tänkande
+nyckelord:
+  - Problemlösning
+  - Matematiska resonemang
+  - Logik
+  - Strategier
+  - Matematikens historia
+  - Matematiska spel
+  - Samarbete
 besokets_langd: 90
 pedagogledd_tid: 75
 max_deltagare: 30
@@ -17,20 +28,30 @@ max_deltagare: 30
 ## Praktisk information
 - Besöket är i vår utställning Matemagica som är belägen på våning 2, hiss finns.
 - Eleverna kommer få hjälpa al-Khwarizmi och Brahmagupta lösa problem i mindre grupper.
-
+- Besöket är 90 minuter, varav det pedagogledda programmet är 75 minuter. Under besökets sista 15 minuter erbjuds ni att utforska en annan avdelning på Navet på egen hand.
+- 
 ## Innehåll
 
 ## Ny webbtext
+Nollan kommer på besök – en resa i siffermagi och historisk matematik!
+
+Välkommen till ett fantasifullt och lärorikt skolprogram där historia och matematik vävs samman i en levande berättelse! 
+Vi färdas tillbaka till 800-talet och möter den klurige matematikern Al-Khwarizmi som fått tag på några mycket märkliga symboler – siffror som han inte riktigt förstår. Men hjälp är på väg! Plötsligt dyker den indiske matematikern Brahmagupta upp, full av energi och kunskap från 600-talet. Med sig har han en siffra som ska förändra världen: **nollan**.
+
+Tillsammans hjälper de varandra – och oss – att förstå hur de nya siffrorna fungerar. Vad betyder egentligen noll? Varför var den så revolutionerande? Och hur använder vi dessa gamla idéer i vår vardag idag? Efter berättelsen ger vi oss in i praktiska övningar som tränar **taluppfattning** – allt med nyfikenhet, problemlösning och upptäckarglädje i fokus!
+
+Kom och upptäck hur historien om nollan och siffrornas magi fortfarande påverkar oss idag!
+
+Det pedagogledda programmet är 75 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.
+
 
 ## Ny planschtext
+I programmet får eleverna möta den historiske matematikern al-Khwarizmi och utforska taluppfattning och positionssystemet genom praktiska övningar, dramatisering och problemlösning.
 
 ## Befintlig planschtext
-
 I programmet får eleverna möta den historiske matematikern al-Khwarizmi och utforska taluppfattning och positionssystemet genom praktiska övningar, dramatisering och problemlösning.
 
 ## Befintlig webbtext
-
-
 Nollan kommer på besök – en resa i siffermagi och historisk matematik!
 
 Välkommen till ett fantasifullt och lärorikt skolprogram där historia och matematik vävs samman i en levande berättelse! 
@@ -41,4 +62,3 @@ Efter berättelsen ger vi oss in i praktiska och lekfulla övningar som tränar 
 
 Kom och upptäck hur historien om nollan och siffrornas magi fortfarande påverkar oss idag!
 
-Det pedagogledda programmet är 75 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.

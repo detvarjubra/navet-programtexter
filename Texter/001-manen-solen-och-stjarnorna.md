@@ -35,12 +35,12 @@ max_deltagare: 30
 - Astronoma är en utställningsmiljö som kan upplevas som något mörkare än vanligt.
 - Under skolbesöket kommer vi att spränga en vätgasballong, det innebär att det blir en hög smäll som kan upplevas som obehaglig.
 - Det förekommer ballonger i introduktionen.
-
+- Besöket är 90 minuter, varav det pedagogledda programmet är 75 minuter. Under besökets sista 15 minuter erbjuds ni att utforska en annan avdelning på Navet på egen hand.
+- 
 ## Innehåll
 Programmet behandlar solen, månen och stjärnorna med fokus på vårt solsystem och våra närmaste himlakroppar. Eleverna utforskar månens faser och möter astronomi genom dramatisering, experiment och aktiviteter i Astronoma. Programmet berör även Margaret Hamilton, månlandningen, Galileo Galilei, universum och fenomen kopplade till ljus.
 
 ## Ny webbtext
-
 I Månen, solen och stjärnorna utforskar eleverna vårt solsystem och några av våra närmaste himlakroppar.
 
 Besöket börjar med att en entusiastisk men något stressad Galileo Galilei möter gruppen i Navets entré. Genom dramatisering och experiment utforskar eleverna vår plats i solsystemet och fenomen som tyngdkraft och friktion. De möter också berättelsen om månlandningen och får lära känna Margaret Hamilton och hennes betydelse för att människan kunde landa på månen.
@@ -49,16 +49,13 @@ Tillsammans undersöker vi också månens faser och hur solen, jorden och månen
 
 Programmet avslutas med en rymdresa i Navets planetarium.
 
-
-
 ## Ny planschtext
+Varför ändrar månen form och hur lyckades människan ta sig dit? Tillsammans med Galileo Galilei utforskar vi solsystemet genom experiment och en rymdresa i Navets planetarium!
 
 ## Befintlig planschtext
-
 Välkomna på ett skolprogram som väcker nyfikenhet och fascination för vårt solsystem och våra närmsta himlakroppar.
 
 ## Befintlig webbtext
-
 Skolprogrammet _Månen, solen och stjärnorna_ väcker nyfikenhet och fascination för vårt solsystem och våra närmsta himlakroppar.
 
 I Navets entré möts ni av den gamle astronomen Galileo Galilei. Han välkomnar er att följa med upp till _Astronoma_, Navets spännande rymdavdelning. Där inleds programmet med en kort dramatisering om månlandningen, vilken också förstärks av ett spännande experiment! 
@@ -66,5 +63,3 @@ I Navets entré möts ni av den gamle astronomen Galileo Galilei. Han välkomnar
 Vi fortsätter med en gemensam aktivitet där vi utforskar månens faser. Därefter får eleverna upptäcka och utforska Astronoma. Här kan de testa, prova och lära sig mer om universum, men också om ljus. Sedan är det dags att följa med in i Navets biosalong på en rymdresa av sällan skådat slag. Som tur är avslutar vi på jorden igen. 
 
 Observera att under den inledande dramatiseringen kan det förekomma höga ljud.
-
-Det pedagogledda programmet är 75 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.

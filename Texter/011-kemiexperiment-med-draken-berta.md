@@ -6,9 +6,23 @@ malgrupp:
   - ak_1
   - ak_2
   - ak_3
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - kemi
+teman:
+  - kemi
+  - experiment
+  - kemiska reaktioner
+nyckelord:
+  - Kemi
+  - Experiment
+  - Kemiska reaktioner
+  - Laboratorium
+  - Pipetter
+  - Vardagskemi
+  - Gas
+  - Surt
+  - Basiskt
+  - Kemiska beteckningar
 besokets_langd: 90
 pedagogledd_tid: 75
 max_deltagare: 24
@@ -17,27 +31,31 @@ max_deltagare: 24
 # Kemiexperiment med draken Berta
 
 ## Praktisk information
-- Upplägg för besöket: Saga med experiment.
-- Gemensamt experiment för hela gruppen Barnen tar på sig labbrockar och experimenterar själva Avslutande experiment tillsammans.
-- Programmet börjar i ”Bertas Grotta” där vi läser en saga och gör spännande experiment under berättelsens gång. Bland annat kommer en liten burk att skjutas iväg med en liten smäll och Berta kan även spruta eld. Om något barn är känsligt för höga ljud eller eld är det bra om ni förbereder dem på detta. Berätta gärna för oss om något barn är känsligt.
-- Under besöket får barnen träffa draken Berta. En busig liten handdocka som älskar kemi och experiment!
 - Besöket äger rum i en labbsal på entréplan.
-- Vi använder skyddsutrustning i form av labbrockar och eventuellt skyddsglasögon.
-- Vi använder vardagskemikalier som citronsyra, bikarbonat, brustabletter.
-- Berta kommer att spruta eld, och det kommer bli en liten smäll av en burk som skjuts iväg med koldioxid.
+- Eleverna använder labbrockar och vid behov skyddsglasögon under experimenten.
+- Under programmets inledning förekommer en mindre smäll när en burk skjuts iväg med hjälp av koldioxid. Draken Berta sprutar också eld. Förbered gärna elever som är känsliga för höga ljud eller eld och berätta för oss om det finns något vi behöver känna till inför besöket.
+- I experimenten används bland annat vardagskemikalier som citronsyra, bikarbonat och brustabletter.
+- Besöket är 90 minuter, varav det pedagogledda programmet är 75 minuter. Under besökets sista 15 minuter erbjuds ni att utforska en annan avdelning på Navet på egen hand.
+
 
 ## Innehåll
 
 ## Ny webbtext
+Vad händer när vi blandar olika ämnen? Kan vi skapa en gas, och varför ändrar vissa vätskor färg?
+
+I *Kemiexperiment med draken Berta* får eleverna möta den busiga draken Berta och utforska kemi genom demonstrationer och experiment. Tillsammans undersöker vi vad som händer när olika ämnen blandas och upptäcker några av kemins spännande reaktioner.
+
+Med labbrockar och laboratorieutrustning får eleverna själva experimentera med vardagskemikalier. Vi utforskar gaser, sura och basiska ämnen och undersöker vad som händer vid olika kemiska reaktioner. Genom att ställa frågor, göra förutsägelser, prova och observera resultaten får eleverna träna på ett naturvetenskapligt arbetssätt.
+
+Programmet avslutas med ett gemensamt experiment där draken Berta bjuder på en sista överraskning!
 
 ## Ny planschtext
+Vad händer när vi blandar olika ämnen? Tillsammans med draken Berta undersöker vi hur gaser bildas, varför vätskor ändrar färg och vad som får en vulkan att bubbla!
 
 ## Befintlig planschtext
-
 Välkomna på draken Bertas alldeles egna kemiprogram! Prova hennes spännande kemiexperiment som väcker nyfikenhet och experimentlust samtidigt som ett naturvetenskapligt arbetssätt tränas.
 
 ## Befintlig webbtext
-
 Välkomna på _draken Bertas_ alldeles egna kemiprogram! 
 
 Prova hennes spännande kemiexperiment som väcker nyfikenhet och experimentlust samtidigt som ett naturvetenskapligt arbetssätt tränas.
@@ -51,4 +69,3 @@ Begrepp som tas upp under programmet:
 - Gas
 - Surt och basiskt
 
-Det pedagogledda programmet är 75 minuter och de sista 15 minutrarna erbjuds ni att upptäcka en annan avdelning på Navet på egen hand.

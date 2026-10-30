@@ -20,6 +20,12 @@ max_deltagare: 20
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Låt dina elever fördjupa sig i teknikens möjligheter genom ett kreativt och praktiskt uppdrag som kombinerar konstruktion, programmering och problemlösning. Genom att arbeta med både mekanik och digital styrning utvecklar de sin analytiska förmåga och tekniska förståelse.
+
 ## Befintlig webbtext
 
 

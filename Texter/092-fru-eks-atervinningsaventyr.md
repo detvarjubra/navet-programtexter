@@ -22,6 +22,12 @@ max_deltagare: 20
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Från skräp till nytt. Hjälp Fru Ek sortera soporna rätt och bli en riktig mästare!
+
 ## Befintlig webbtext
 
 

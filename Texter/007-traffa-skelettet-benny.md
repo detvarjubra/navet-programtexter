@@ -46,6 +46,12 @@ Eleverna får också möta skelett från hund och katt och tillsammans jämför 
 
 Efter inledningen med Benny får eleverna utforska Humana och prova olika aktiviteter om människokroppen. Besöket avslutas gemensamt, där vi bland annat undersöker några av Navets djurkranier.
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+I detta skolprogram får eleverna utforska människokroppen genom att träffa Benny – ett skelett, och undersöka kroppens funktioner, organ och sinnesintryck på ett lekfullt sätt.
+
 ## Befintlig webbtext
 
 Träffa skelettet Benny är ett spännande och lärorikt skolprogram där eleverna får möjlighet att utforska människokroppens mysterier på ett engagerande och interaktivt sätt. Programmet är utformat för att väcka nyfikenhet och ge en djupare förståelse för hur vår kropp fungerar.

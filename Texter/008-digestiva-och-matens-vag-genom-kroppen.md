@@ -24,6 +24,12 @@ max_deltagare: 30
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Eleverna får träffa matspjälkningsmodellen Digestiva och tillsammans upptäcka kroppens fantastiska funktioner genom övningar och praktiska aktiviteter.
+
 ## Befintlig webbtext
 
 Välkommen till ett spännande och lärorikt äventyr där vi tillsammans med _Digestiva_ får följa maten på en fascinerande resa genom kroppen. I skolprogrammet får eleverna fördjupa sig i hur vår kropp bearbetar och tar tillvara på den mat vi äter – från den första tuggan till toaletten.

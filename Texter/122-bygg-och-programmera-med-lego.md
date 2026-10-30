@@ -25,6 +25,12 @@ max_deltagare: 30
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Genom lekfulla och praktiska uppdrag får eleverna utforska sin kreativitet, konstruera legomodeller som kan lysa, låta och röra sig – och samtidigt prova på enkel programmering.
+
 ## Befintlig webbtext
 
 

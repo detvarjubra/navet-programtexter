@@ -51,6 +51,12 @@ Programmet avslutas med en rymdresa i Navets planetarium.
 
 
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Välkomna på ett skolprogram som väcker nyfikenhet och fascination för vårt solsystem och våra närmsta himlakroppar.
+
 ## Befintlig webbtext
 
 Skolprogrammet _Månen, solen och stjärnorna_ väcker nyfikenhet och fascination för vårt solsystem och våra närmsta himlakroppar.

@@ -22,6 +22,12 @@ max_deltagare: 30
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Tillsammans med den historiske matematikern al-Khwarizmi får eleverna lösa spännande matematiska utmaningar. Programmet fokuserar på problemlösning, strategier och bråk på ett kreativt och inspirerande sätt.
+
 ## Befintlig webbtext
 
 

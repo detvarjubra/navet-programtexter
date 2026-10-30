@@ -26,6 +26,12 @@ max_deltagare: 16
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Tunda ska göra en cirkusföreställning, men undrar vilka cirkuskonster som passar bäst.
+
 ## Befintlig webbtext
 
 

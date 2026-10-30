@@ -32,6 +32,12 @@ Genom berättande, rörelse, ljud och enkla experiment får barnen undersöka oc
 
 *Text och bilder ur boken används med vänligt tillstånd av författaren.*
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Kom och träffa Tant Sol och följ med på ett fantasifullt äventyr i rymden!
+
 ## Befintlig webbtext
 
 

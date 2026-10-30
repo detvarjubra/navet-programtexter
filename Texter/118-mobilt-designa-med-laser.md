@@ -25,6 +25,12 @@ max_deltagare: 100
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Navet kommer till ert klassrum med laserskärare och låter eleverna utforska sin skaparglädje i ett skolprogram där kreativitet, digital design och teknik möts.
+
 ## Befintlig webbtext
 
 

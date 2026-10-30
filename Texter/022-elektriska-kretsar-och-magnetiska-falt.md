@@ -24,6 +24,12 @@ max_deltagare: 30
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Eleverna får koppla, testa och experimentera för att upptäcka hur elektricitet och magnetism fungerar. Med praktiska övningar och kreativt lärande väcks nyfikenheten för naturvetenskap!
+
 ## Befintlig webbtext
 
 Koppla, testa och experimentera med elektricitet och magnetism! 

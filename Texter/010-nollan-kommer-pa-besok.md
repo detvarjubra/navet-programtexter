@@ -22,6 +22,12 @@ max_deltagare: 30
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+I programmet får eleverna möta den historiske matematikern al-Khwarizmi och utforska taluppfattning och positionssystemet genom praktiska övningar, dramatisering och problemlösning.
+
 ## Befintlig webbtext
 
 

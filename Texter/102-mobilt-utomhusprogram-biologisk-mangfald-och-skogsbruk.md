@@ -18,6 +18,12 @@ max_deltagare: 100
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Gör 8 enkla fältundersökningar för att ta reda på hur man kan balansera biologisk mångfald och skogsbruk. Programmet passar för olika gymnasiekurser inom biologi, geografi och hållbar utveckling.
+
 ## Befintlig webbtext
 
 

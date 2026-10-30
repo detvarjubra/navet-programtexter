@@ -23,6 +23,12 @@ max_deltagare: 25
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Genom kreativa och praktiska uppdrag får eleverna utlopp för sin skaparlust och innovationsförmåga samtidigt som de möter utmaningar inom både programmering, mekanik och konstruktion.
+
 ## Befintlig webbtext
 
 

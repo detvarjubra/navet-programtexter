@@ -43,6 +43,12 @@ Sedan är det barnens tur att bli kemister. De tar på sig labbrockar och får s
 
 Besöket avslutas med ett gemensamt experiment.
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Kom och träffa draken Berta som älskar att spruta eld och göra experiment.
+
 ## Befintlig webbtext
 
 Välkomna på _draken Bertas_ kemiprogram och prova hennes spännande kemiexperiment som väcker nyfikenhet och experimentlust.

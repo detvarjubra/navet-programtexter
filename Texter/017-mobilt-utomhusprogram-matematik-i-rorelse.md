@@ -25,6 +25,12 @@ max_deltagare: 100
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+I detta utomhusprogram får eleverna öva på matematiska begrepp som ordningstal, bråk, former och multiplikation genom roliga och aktiva utomhuslekar. Innehållet anpassas utifrån elevernas ålder.
+
 ## Befintlig webbtext
 
 I utomhusprogrammet _Matematik i rörelse: Lekar och utmaningar_ får eleverna öva på matematiska begrepp som ordningstal, bråk, former och multiplikation genom roliga och aktiva utomhuslekar. Innehållet anpassas utifrån elevernas ålder.

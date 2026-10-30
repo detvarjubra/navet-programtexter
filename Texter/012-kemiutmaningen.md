@@ -27,6 +27,14 @@ max_deltagare: 24
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Välkomna på ett kemiprogram som verkligen väcker experimentlusten! Genom att prova och testa får eleverna klura ut hur olika experiment är utförda.
+
+Ett kemiprogram som verkligen väcker experimentlusten! Genom att prova och testa får eleverna klura ut hur olika experiment är utförda.
+
 ## Befintlig webbtext
 
 Välkomna på ett kemiprogram som verkligen väcker experimentlusten samtidigt som ett naturvetenskapligt arbetssätt tränas. 

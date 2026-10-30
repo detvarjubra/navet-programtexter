@@ -20,6 +20,12 @@ besokets_langd: 30
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Kul med kalas! Men det är inte så lätt att ordna allt. Hjälp Berta reda upp kalaset!
+
 ## Befintlig webbtext
 
 

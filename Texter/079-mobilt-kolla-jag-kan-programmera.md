@@ -25,6 +25,12 @@ max_deltagare: 100
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Navet kommer till er skola med ett skolprogram där eleverna får utforska och programmera med Micro:bit. Med enkel blockprogrammering skapar de spännande projekt.
+
 ## Befintlig webbtext
 
 

@@ -24,6 +24,12 @@ max_deltagare: 30
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Ett spännande och interaktivt skolprogram som väcker elevernas fascination för vårt solsystem, årstider och himlakropparnas rörelser. Genom dramatisering, rymdresa och praktiska övningar får eleverna upptäcka universum på ett roligt och lärorikt sätt!
+
 ## Befintlig webbtext
 
 

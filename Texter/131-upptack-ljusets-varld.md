@@ -23,6 +23,12 @@ max_deltagare: 30
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Navet fyller 30 år och då passar vi på att leta upp några gamla godingar från förr. Detta är ett skolprogram där vi undersöker absorption, reflektion, spektrum och mycket mer i ljusets fascinerande värld.
+
 ## Befintlig webbtext
 
 

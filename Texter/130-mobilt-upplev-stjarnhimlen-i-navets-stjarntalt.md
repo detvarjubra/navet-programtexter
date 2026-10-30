@@ -23,6 +23,12 @@ max_deltagare: 100
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Navet fyller 30 år och då passar vi på att leta upp några gamla godingar från förr. Upplev den gnistrande stjärnhimlen i Navets stjärntält på plats på er skola och fascineras av vår kosmiska hembygd! OBS, programmet kräver stor plats, t ex idrottssalen.
+
 ## Befintlig webbtext
 
 

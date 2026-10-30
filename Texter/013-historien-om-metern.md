@@ -22,6 +22,12 @@ max_deltagare: 30
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Utforska och arbeta praktiskt med matematik. Programmet handlar om mätning och enheter, både historiska och nutida, och innehåller dramatisering, övningar och problemlösning.
+
 ## Befintlig webbtext
 
 

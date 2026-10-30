@@ -24,6 +24,12 @@ max_deltagare: 30
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Här får eleverna fundera över kroppens organsystem och sinnen. De fördjupar sig i hur kroppen fungerar genom praktiska experiment och interaktiva uppgifter.
+
 ## Befintlig webbtext
 
 Välkommen på vårt program _Vår fascinerande kropp_ där ni får besöka Navets "läkarmottagning" och hjälpa till att diagnostisera patienter.

@@ -26,6 +26,12 @@ max_deltagare: 30
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Följ med på en rymdresa där eleverna utforskar stjärnornas livscykel, grundämnen och exoplaneter. Genom en guidad visning och experiment i Navets astronomiavdelning berör vi spektroskopi, elektromagnetisk strålning och vår koppling till det kosmiska kretsloppet.
+
 ## Befintlig webbtext
 
 I Navets spännande astronomiavdelning Astronoma erbjuder vi programmet *Utblick i universum*. Här tar vi oss ut på en riktigt lång rymdresa för att  förstå våra kosmiska omgivningar, universums uppkomst och uppbyggnad och hur vi hänger ihop med stjärnorna i det största kretsloppet. Vi pratar om stjärnornas livscykel och hur dessa hänger ihop med grundämnena och det kosmiska kretsloppet och tittar på exoplaneter. Eleverna får också chans att experimentera och prova stationer i vår astronomiavdelning, särskilt med fokus på grundämnen, spektroskopi och elektromagnetisk strålning. 

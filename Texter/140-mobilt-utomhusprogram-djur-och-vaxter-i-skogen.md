@@ -27,6 +27,12 @@ max_deltagare: 100
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Ett utomhusskolprogram där ekologin i skogen utforskas genom övningar och uppdrag. Genom att lära sig mer om biologisk mångfald och bekanta sig med sin närmiljö skapas starkare band till naturen och en hållbar miljö.
+
 ## Befintlig webbtext
 
 

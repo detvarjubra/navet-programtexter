@@ -25,6 +25,12 @@ max_deltagare: 100
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Varför börjar det pipa när kylskåpsdörren lämnas öppen? Navet kommer till er skola med ett program om teknik – elektriska kretsar, sensorer, programmering samt styr- och reglersystem.
+
 ## Befintlig webbtext
 
 

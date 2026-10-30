@@ -29,6 +29,12 @@ max_deltagare: 100
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Svampar är spännande intressanta och har väldigt stor betydelse i ekosystemet, I detta utomhusprogram lär vi oss mer om svampar och dess betydelse i våra skogar.
+
 ## Befintlig webbtext
 
 Svampar är spännande, intressanta och har väldigt stor betydelse i ekosystemet. I detta utomhusprogram lär vi oss mer om svampar och dess betydelse i våra skogar. Programmet tar ca 60 minuter per klass.

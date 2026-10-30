@@ -24,6 +24,12 @@ max_deltagare: 30
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Föreläsning, diskussioner och praktiska övningar kring hållbar utveckling och de globala målen.
+
 ## Befintlig webbtext
 
 Föreläsning, diskussioner och praktiska övningar kring hållbar utveckling och de globala målen.

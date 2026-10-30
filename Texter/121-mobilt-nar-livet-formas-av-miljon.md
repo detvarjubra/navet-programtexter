@@ -50,6 +50,12 @@ I *När livet formas av miljön* utforskar eleverna hur djur och växter är anp
 
 Med hjälp av bland annat djurkranier, leksaksdjur och bilder jämför vi olika arter och upptäcker både likheter och skillnader. Eleverna får möta begrepp som anpassning, livsmiljö och variation och undersöka hur individer inom samma art kan skilja sig från varandra.
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Många barn är nyfikna på livets stora frågor. I det här skolprogrammet får eleverna möjlighet att börja prata om anpassningar och evolution genom tankeväckande övningar.
+
 ## Befintlig webbtext
 
 När livet formas av miljön - djurs och växters anpassningar

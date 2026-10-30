@@ -24,6 +24,12 @@ max_deltagare: 30
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Få en inspirerande inblick i matematikens värld genom historiska berättelser, praktiska övningar och kluriga utmaningar. I programmet får eleverna utforska matematik ur nya perspektiv och utveckla sina problemlösningsförmågor.
+
 ## Befintlig webbtext
 
 

@@ -30,6 +30,12 @@ max_deltagare: 24
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Välkomna på draken Bertas alldeles egna kemiprogram! Prova hennes spännande kemiexperiment som väcker nyfikenhet och experimentlust samtidigt som ett naturvetenskapligt arbetssätt tränas.
+
 ## Befintlig webbtext
 
 Välkomna på _draken Bertas_ alldeles egna kemiprogram! 

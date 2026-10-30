@@ -28,6 +28,12 @@ max_deltagare: 100
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+I detta utomhusprogram får eleverna undersöka och använda de fem klassiska teknikerna - lutande planet, skruven, hävstången, hjulet och kilen för att hantera tunga saker.
+
 ## Befintlig webbtext
 
 

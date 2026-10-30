@@ -23,6 +23,12 @@ max_deltagare: 100
 
 ## Ny webbtext
 
+## Ny planschtext
+
+## Befintlig planschtext
+
+Ett spännande skolprogram där eleverna genom en escape box får utforska ekosystemens komplexitet och lära sig om biologisk mångfald och hållbar utveckling.
+
 ## Befintlig webbtext
 
 

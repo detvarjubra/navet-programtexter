@@ -12,6 +12,7 @@ teman: []
 nyckelord: []
 besokets_langd: 60
 max_deltagare: 30
+bilagor: []
 ---
 
 # Utblick i universum

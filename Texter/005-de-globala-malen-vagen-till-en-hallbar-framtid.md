@@ -12,6 +12,7 @@ teman: []
 nyckelord: []
 besokets_langd: 75
 max_deltagare: 30
+bilagor: []
 ---
 
 # De globala målen - vägen till en hållbar framtid

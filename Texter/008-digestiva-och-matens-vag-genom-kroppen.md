@@ -23,6 +23,7 @@ nyckelord:
 besokets_langd: 75
 pedagogledd_tid: 60
 max_deltagare: 30
+bilagor: []
 ---
 
 # Digestiva och matens väg genom kroppen

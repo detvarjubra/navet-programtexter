@@ -14,6 +14,7 @@ teman: []
 nyckelord: []
 besokets_langd: 60 # cirka
 max_deltagare: 100
+bilagor: []
 ---
 
 # MOBILT Utomhusprogram - Djur och växter i skogen

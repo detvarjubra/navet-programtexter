@@ -10,6 +10,7 @@ teman: []
 nyckelord: []
 besokets_langd: 75
 max_deltagare: 20
+bilagor: []
 ---
 
 # Konstruera och programmera tekniska lösningar med LEGO®

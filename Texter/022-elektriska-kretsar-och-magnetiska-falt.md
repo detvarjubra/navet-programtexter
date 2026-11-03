@@ -22,6 +22,7 @@ nyckelord:
   - Seriekoppling
 besokets_langd: 90
 max_deltagare: 30
+bilagor: []
 ---
 
 # Elektriska kretsar och magnetiska fält

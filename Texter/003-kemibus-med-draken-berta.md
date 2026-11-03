@@ -19,6 +19,7 @@ nyckelord:
   - Vardagskemi
 besokets_langd: 90 (varav 75 pedagoglett)
 max_deltagare: 16
+bilagor: []
 ---
 
 # Kemibus med draken Berta

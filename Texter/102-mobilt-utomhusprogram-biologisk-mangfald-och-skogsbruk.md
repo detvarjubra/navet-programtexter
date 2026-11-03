@@ -8,6 +8,7 @@ teman: []
 nyckelord: []
 besokets_langd: 90
 max_deltagare: 100
+bilagor: []
 ---
 
 # MOBILT Utomhusprogram Biologisk mångfald och skogsbruk

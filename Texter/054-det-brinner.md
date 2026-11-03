@@ -10,6 +10,7 @@ teman: []
 nyckelord: []
 besokets_langd: 90
 max_deltagare: 24
+bilagor: []
 ---
 
 # Det brinner!

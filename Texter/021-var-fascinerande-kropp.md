@@ -20,6 +20,7 @@ nyckelord:
   - Antikroppar
 besokets_langd: 90
 max_deltagare: 30
+bilagor: []
 ---
 
 # Vår fascinerande kropp

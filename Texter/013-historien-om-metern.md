@@ -22,6 +22,7 @@ nyckelord:
 besokets_langd: 90
 pedagogledd_tid: 75
 max_deltagare: 30
+bilagor: []
 ---
 
 # Historien om metern

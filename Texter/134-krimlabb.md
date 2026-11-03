@@ -9,6 +9,7 @@ teman: []
 nyckelord: []
 besokets_langd: 60
 max_deltagare: 24
+bilagor: []
 ---
 
 # Krimlabb

@@ -23,6 +23,7 @@ nyckelord:
   - Kemiska reaktioner
 besokets_langd: 90
 max_deltagare: 24
+bilagor: []
 ---
 
 # Kemiutmaningen

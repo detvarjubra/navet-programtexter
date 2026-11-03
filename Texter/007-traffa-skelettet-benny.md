@@ -22,6 +22,7 @@ nyckelord:
 besokets_langd: 75
 pedagogledd_tid: 60
 max_deltagare: 30
+bilagor: []
 ---
 
 # Träffa skelettet Benny

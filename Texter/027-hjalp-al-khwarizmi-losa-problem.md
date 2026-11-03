@@ -19,6 +19,7 @@ nyckelord:
   - Matematikens historia
 besokets_langd: 90
 max_deltagare: 30
+bilagor: []
 ---
 
 # Hjälp al-Khwarizmi lösa problem

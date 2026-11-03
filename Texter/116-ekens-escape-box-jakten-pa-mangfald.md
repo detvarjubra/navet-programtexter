@@ -11,6 +11,7 @@ teman: []
 nyckelord: []
 besokets_langd: 60
 max_deltagare: 100
+bilagor: []
 ---
 
 # Ekens escape box - jakten på mångfald

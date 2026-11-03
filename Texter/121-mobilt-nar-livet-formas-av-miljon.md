@@ -25,6 +25,7 @@ nyckelord:
   - Biologisk mångfald
 besokets_langd: 60 # cirka
 max_deltagare: 100
+bilagor: []
 ---
 
 # MOBILT När livet formas av miljön

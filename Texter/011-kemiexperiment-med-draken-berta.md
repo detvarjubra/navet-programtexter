@@ -26,6 +26,7 @@ nyckelord:
 besokets_langd: 90
 pedagogledd_tid: 75
 max_deltagare: 24
+bilagor: []
 ---
 
 # Kemiexperiment med draken Berta

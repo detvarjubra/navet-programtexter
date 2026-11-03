@@ -10,6 +10,7 @@ teman: []
 nyckelord: []
 besokets_langd: 90
 max_deltagare: 25
+bilagor: []
 ---
 
 # LEGO® - bygg och programmera robotar!

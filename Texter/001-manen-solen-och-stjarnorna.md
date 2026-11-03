@@ -26,6 +26,18 @@ nyckelord:
 besokets_langd: 90
 pedagogledd_tid: 75
 max_deltagare: 30
+bilagor:
+  - titel: "Förarbete – inför besöket"
+    fil: "forarbete.pdf"
+    typ: forarbete
+
+  - titel: "Efterarbete – uppgifter"
+    fil: "efterarbete.pdf"
+    typ: efterarbete
+
+  - titel: "Lärarhandledning"
+    fil: "lararhandledning.pdf"
+    typ: ovrigt
 ---
 
 # Månen, solen och stjärnorna

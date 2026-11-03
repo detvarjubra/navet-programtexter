@@ -27,6 +27,7 @@ nyckelord:
   - Problemlösning
 besokets_langd: 60 # cirka
 max_deltagare: 100
+bilagor: []
 ---
 
 # MOBILT Utomhusprogram - De fem mäktiga

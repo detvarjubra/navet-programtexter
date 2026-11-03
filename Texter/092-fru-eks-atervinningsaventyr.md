@@ -12,6 +12,7 @@ nyckelord: []
 besokets_langd: 60
 pedagogledd_tid: 45
 max_deltagare: 20
+bilagor: []
 ---
 
 # Fru Eks återvinningsäventyr

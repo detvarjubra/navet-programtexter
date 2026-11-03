@@ -21,6 +21,7 @@ nyckelord:
   - Utomhusmatematik
 besokets_langd: 60 # cirka
 max_deltagare: 100
+bilagor: []
 ---
 
 # MOBILT Utomhusprogram - Skala ner

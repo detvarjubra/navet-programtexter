@@ -10,6 +10,7 @@ teman: []
 nyckelord: []
 besokets_langd: 60
 max_deltagare: 100
+bilagor: []
 ---
 
 # MOBILT Varför piper det?

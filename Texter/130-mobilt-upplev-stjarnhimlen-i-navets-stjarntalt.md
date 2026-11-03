@@ -11,6 +11,7 @@ teman: []
 nyckelord: []
 besokets_langd: 40
 max_deltagare: 100
+bilagor: []
 ---
 
 # MOBILT Upplev stjärnhimlen i Navets stjärntält

@@ -10,6 +10,7 @@ teman: []
 nyckelord: []
 besokets_langd: 90 # cirka
 max_deltagare: 100
+bilagor: []
 ---
 
 # MOBILT Designa med laser!

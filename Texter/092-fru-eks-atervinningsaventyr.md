@@ -6,9 +6,19 @@ malgrupp:
   - anpassad_grundskola
   - anpassad_gymnasieskola
 fran_alder: 4
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - naturvetenskap
+  - teknik
+teman:
+  - hållbar utveckling
+  - återvinning
+nyckelord:
+  - Källsortering
+  - Återvinning
+  - Material
+  - Nedskräpning
+  - Miljö
+  - Pant
 besokets_langd: 60
 pedagogledd_tid: 45
 min_deltagare: 5
@@ -19,12 +29,24 @@ bilagor: []
 # Fru Eks återvinningsäventyr
 
 ## Praktisk information
-
+- Programmet riktar sig till barn från 4 år samt elever i anpassad grundskola och anpassad gymnasieskola.
+- Besöket är cirka 60 minuter, varav 45 minuter är pedagogledda.
+- Gruppen möts av en pedagog från Navet vid entrén.
+- Programmet innehåller dramatisering, gemensamma aktiviteter och en stunds eget utforskande.
+  
 ## Innehåll
 
 ## Ny webbtext
+Oj då! Någon har skräpat ned i Fru Eks skog! Överallt ligger saker som inte hör hemma i naturen. Hur ska hon få ordning igen?
+
+I *Fru Eks återvinningsäventyr* får barnen träffa Fru Ek, som behöver hjälp att städa upp i sin skog. Tillsammans undersöker vi skräpet och funderar på var de olika sakerna hör hemma.
+
+Genom lek och praktiska aktiviteter får barnen upptäcka olika material, sortera förpackningar och prova på att panta. Vi pratar om varför det är viktigt att ta hand om naturen och vad som händer med det vi slänger.
+
+Barnen får också utforska Navets hållbarhetsutställning och upptäcka mer om hur vi kan ta hand om vår miljö.
 
 ## Ny planschtext
+Hjälp! Någon har skräpat ned i Fru Eks skog! Följ med och hjälp henne att städa upp. Genom lek och praktiska aktiviteter får barnen sortera skräp och lära sig mer om återvinning och hur vi tar hand om naturen.
 
 ## Befintlig planschtext
 

@@ -5,10 +5,21 @@ malgrupp:
   - ak_7
   - ak_8
   - ak_9
-amnen: []
-teman: []
-nyckelord: []
-besokets_langd: 90 # cirka
+amnen:
+  - teknik
+  - slojd
+teman:
+  - digital design
+  - digital tillverkning
+nyckelord:
+  - Laserskärning
+  - Digital slöjd
+  - Designprocess
+  - Kreativt skapande
+  - Datorstyrd tillverkning
+  - Materialbearbetning
+  - Produktdesign
+besokets_langd: 75 # cirka
 min_deltagare: null
 max_deltagare: 100
 bilagor: []
@@ -17,17 +28,30 @@ bilagor: []
 # MOBILT Designa med laser!
 
 ## Praktisk information
-- Vi önskar få tillgång till skärm/projektor i klassrummet, och gärna en whiteboard.
-- Vi önskar få vara i samma lokal hos er under hela besöket då det tar tid att flytta laserskärarna.
-- Laserskärarna ger ifrån sig rök när de skär genom materialet. Om det finns tillgång till luftsug som till exempel i en kemisal så är det att föredra, annars behöver vi ha möjlighet att öppna ett fönster för att avleda röken.
-- Eleverna designar på sina egna datorer – kontrollerna gärna att de är laddade.
+- Vi behöver tillgång till projektor eller större skärm och gärna en whiteboard.
+- - Laserskärarna är tunga och vi behöver tillgång till hiss om lokalen inte ligger på markplan.
+- Vi önskar vara i samma lokal under hela besöket eftersom laserskärarna tar tid att flytta.
+- Laserskärarna avger rök vid bearbetning av materialet. Lokalen behöver därför ha möjlighet till ventilation genom öppningsbart fönster eller balkongdörr. En kemisal med utsug är att föredra.
+- Eleverna behöver varsin laddad dator med internetuppkoppling. Vi använder ett webbaserat designverktyg från FLUXlasers.
 - Vi använder ett webbaserat ritverktyg från fluxlasers som också tillverkar laserskärarna vi har med.
+- Programmet genomförs i ett klassrum på er skola och tar 60–75 minuter per grupp. Vi rekommenderar 75 minuter.
+- Vid 60-minuterspass kan vi ta emot cirka 24 elever. För grupper med 28–30 elever behöver vi 75 minuter.
 
 ## Innehåll
 
 ## Ny webbtext
+Kan du förvandla en egen idé till en färdig produkt med hjälp av en laserskärare?
+
+I *MOBILT Designa med laser!* kommer Navets pedagoger till er skola med laserskärare och låter eleverna upptäcka hur digital teknik kan användas för kreativt skapande.
+
+Eleverna får arbeta med digital design och skapa en egen produkt, exempelvis en nyckelring eller ett glasunderlägg. Med hjälp av ett webbaserat ritverktyg tar de fram sin design, som sedan laserskärs i trä direkt i klassrummet.
+
+Från idé och digital ritning till en färdig produkt får eleverna prova på en modern tillverkningsprocess där teknik, kreativitet och slöjd möts. Målet är att varje elev ska få ta med sig sitt eget skapade föremål hem.
+
+Inga förkunskaper krävs – bara nyfikenhet och lust att skapa!
 
 ## Ny planschtext
+Från digital idé till färdig produkt! Navet kommer till er skola med laserskärare och låter eleverna utforska digital slöjd. Med hjälp av ett designverktyg får de skapa egna föremål som laserskärs i trä – där kreativitet, teknik och skaparglädje möts.
 
 ## Befintlig planschtext
 

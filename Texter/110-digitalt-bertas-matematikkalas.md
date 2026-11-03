@@ -6,11 +6,21 @@ malgrupp:
   - anpassad_grundskola
   - anpassad_gymnasieskola
 fran_alder: 3
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - matematik
+teman:
+  - taluppfattning
+  - mönster
+nyckelord:
+  - Antal
+  - Talet fem
+  - Taluppdelning
+  - Matematiska mönster
+  - Sortering
+  - Förskolematematik
+  - Digitalt skolprogram
 besokets_langd: 30
-min_deltagare: 5
+min_deltagare: null
 max_deltagare: null
 bilagor: []
 ---
@@ -18,12 +28,26 @@ bilagor: []
 # DIGITALT Bertas matematikkalas
 
 ## Praktisk information
+- Programmet genomförs digitalt och tar cirka 20 minuter.
+- Flera förskolor kan delta i samma sändning.
+- Efter anmälan får ni en länk till det digitala mötet samt enkla instruktioner för förberedelser.
+- Ni behöver en dator med internetuppkoppling och möjlighet att visa sändningen för barngruppen, gärna på en större skärm eller via projektor.
 
 ## Innehåll
 
 ## Ny webbtext
+Hur många gäster kommer på Bertas kalas? Och hur ska vi få ordning på alla förberedelser?
+
+Draken Berta ska ha kalas och behöver hjälp! I *Bertas matematikkalas* får barnen följa med Navets pedagoger på ett digitalt matematikäventyr fyllt av klurigheter och överraskningar.
+
+Tillsammans utforskar vi antal, tal och mönster. Hur många är egentligen fem? Kan fem gömma både tre och två? Och hur kan vi ordna saker så att de bildar ett mönster?
+
+Programmet direktsänds från Navet och varvas med filmer från Bertas förberedelser i laboratoriet. Barnen får vara med och fundera, räkna och upptäcka matematik genom en lekfull berättelse.
+
+Flera förskolor kan delta i samma sändning, och inför programmet får ni en länk samt information om enkla förberedelser.
 
 ## Ny planschtext
+Draken Berta ska ha kalas och behöver barnens hjälp! Följ med på ett digitalt matematikäventyr där vi räknar, upptäcker mönster och utforskar talet fem. Tillsammans med Navets pedagoger får barnen lösa klurigheter och hjälpa Berta med kalasförberedelserna.
 
 ## Befintlig planschtext
 

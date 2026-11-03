@@ -9,9 +9,21 @@ malgrupp:
   - ak_4
   - ak_5
   - ak_6
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - biologi
+teman:
+  - ekologi
+  - biologisk mångfald
+  - skogen
+nyckelord:
+  - Djur och växter
+  - Ekosystem
+  - Näringskedjor
+  - Samspel i naturen
+  - Skogens livsmiljöer
+  - Hållbar utveckling
+  - Naturvetenskapliga undersökningar
+  - Utomhuspedagogik
 besokets_langd: 60 # cirka
 min_deltagare: null
 max_deltagare: 100
@@ -23,13 +35,23 @@ bilagor: []
 ## Praktisk information
 - Besöket är på plats ute hos er eller uppe vid vår naturskola belägen på Ramshulan.
 - Barnen kommer att gå förhållandevis fritt så det är bra om de känner till skogen och vilka gränser som finns.
-- Det här skolprogrammet går att genomföra i varierat väder.
+- Programmet kan genomföras i varierande väder. Kläder och skor anpassade efter väder och skogsterräng rekommenderas.
 
 ## Innehåll
 
 ## Ny webbtext
+Vad händer i skogen om en art försvinner? Och hur hänger egentligen allt levande ihop?
+
+En skog är mycket mer än bara träd. Här finns mängder av djur, växter och andra organismer som på olika sätt är beroende av varandra.
+
+I *MOBILT Djur och växter i skogen* får eleverna utforska skogens ekosystem genom praktiska övningar, lekar och uppdrag. Tillsammans undersöker vi sambanden mellan olika organismer och upptäcker varför biologisk mångfald är viktig för en fungerande skog.
+
+Genom att använda naturen som klassrum får eleverna möjlighet att lära känna sin närmiljö och utveckla sin förståelse för hur allt levande samspelar.
+
+Programmet genomförs i en skog nära er skola eller vid Navets naturskola på Ramshulan.
 
 ## Ny planschtext
+En skog är mycket mer än bara träd! Genom praktiska övningar, lekar och uppdrag får eleverna utforska skogens djur och växter. Tillsammans undersöker vi hur allt levande hänger samman och varför biologisk mångfald är viktig för skogens ekosystem.
 
 ## Befintlig planschtext
 

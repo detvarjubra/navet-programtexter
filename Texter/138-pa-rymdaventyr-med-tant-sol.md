@@ -4,9 +4,21 @@ titel: "På rymdäventyr med Tant Sol"
 malgrupp:
   - forskola
 fran_alder: 5
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - fysik
+  - astronomi
+teman:
+  - rymden
+  - solen och månen
+nyckelord:
+  - Solen
+  - Månen
+  - Dag och natt
+  - Månens faser
+  - Rymdfärder
+  - Ljus och värme
+  - Berättande
+  - Naturvetenskapliga fenomen
 besokets_langd: 60
 pedagogledd_tid: 45
 min_deltagare: 5
@@ -17,10 +29,12 @@ bilagor: []
 # På rymdäventyr med Tant Sol
 
 ## Praktisk information
-- Besöket är i vår utställning Astronoma som är belägen på våning 2 – det finns hiss.
+- Programmet genomförs i Navets rymdutställning Astronoma på våning 2. Hiss finns.
 - Astronoma är en utställningsmiljö som kan upplevas som något mörkare än vanligt.
-- Under skolbesöket kommer vi att spränga en vätgasballong, det innebär att det blir en hög smäll som kan upplevas som obehaglig.
+- Under programmet förekommer ballonger.
+- Ett experiment med en vätgasballong ger en kraftig smäll som kan upplevas som obehaglig. Meddela gärna Navets pedagoger i förväg om något barn är särskilt ljudkänsligt.
 - Det förekommer ballonger i introduktionen.
+- Besöket tar cirka 60 minuter, varav 45 minuter är pedagogledda. De sista 15 minuterna får barnen utforska en annan av Navets utställningar tillsammans med medföljande vuxna.
 
 ## Innehåll
 
@@ -35,6 +49,7 @@ Genom berättande, rörelse, ljud och enkla experiment får barnen undersöka oc
 *Text och bilder ur boken används med vänligt tillstånd av författaren.*
 
 ## Ny planschtext
+Hur lyser månen och vad gör solen hela dagen? Följ med Tant Sol och Månen på ett rymdäventyr! Genom berättelser, rörelse och enkla experiment får barnen utforska dag och natt, månens faser och människans resor ut i rymden.
 
 ## Befintlig planschtext
 

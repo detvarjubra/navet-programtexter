@@ -29,17 +29,28 @@ bilagor: []
 # MOBILT Kolla, jag kan programmera!
 
 ## Praktisk information
-- Vi önskar få tillgång till skärm/projektor i klassrummet, och gärna en whiteboard.
-- Vi önskar få vara i samma lokal hos er under hela besök, alternativt att det finns tillräckligt med tid mellan grupperna för att göra ett lokalbyte.
-- Eleverna kommer att få låna varsin Micro:bit med tillbehör.
-- Eleverna programmerar på sina egna datorer – kontrollerna gärna att de är laddade.
-- Vi använder sidan makecode.microbit.org.
+- Programmet genomförs i ett klassrum på er skola och tar cirka 60 minuter per grupp.
+- Vi behöver tillgång till skärm eller projektor och gärna en whiteboard.
+- Vi önskar vara i samma klassrum under hela besöket. Om vi behöver byta lokal mellan grupperna behövs tid för detta.
+- Navet tar med varsin Micro:bit och tillbehör som eleverna får låna under lektionen.
+- Eleverna behöver varsin dator med internetuppkoppling. Kontrollera gärna att datorerna är laddade inför besöket.
+- Vi använder webbplatsen makecode.microbit.org för blockprogrammering.
 
 ## Innehåll
 
 ## Ny webbtext
+Kan du få en liten dator att visa ditt namn, blinka med ett hjärta eller tända en lampa?
+
+I *MOBILT Kolla, jag kan programmera!* kommer Navets pedagoger till er skola och introducerar eleverna till programmering med Micro:bit.
+
+Med hjälp av enkel blockprogrammering får eleverna skriva egna program och direkt se resultatet på sin Micro:bit. Vi utforskar programmeringens grunder genom SARA – sekvens, alternativ, repetition och abstraktion.
+
+Eleverna får bland annat programmera sitt namn och skapa ett blinkande hjärta. Om tiden räcker till får de även koppla in en lysdiod och styra den med sin kod.
+
+Navet tar med Micro:bit och tillbehör. Eleverna behöver bara ha tillgång till varsin dator med internetuppkoppling.
 
 ## Ny planschtext
+Kan du få en liten dator att visa ditt namn eller blinka med ett hjärta? Navet kommer till er skola och låter eleverna utforska  Micro:bits. Med blockprogrammering får de upptäcka hur kod blir till verklighet!
 
 ## Befintlig planschtext
 

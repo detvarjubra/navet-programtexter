@@ -18,7 +18,7 @@ nyckelord:
   - Pipetter
   - Vardagskemi
 besokets_langd: 90 (varav 75 pedagoglett)
-min_deltagare: null
+min_deltagare: 5
 max_deltagare: 16
 bilagor: []
 ---

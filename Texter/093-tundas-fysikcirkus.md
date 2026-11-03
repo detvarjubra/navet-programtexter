@@ -11,7 +11,7 @@ teman: []
 nyckelord: []
 besokets_langd: 60
 pedagogledd_tid: 45
-min_deltagare: null
+min_deltagare: 5
 max_deltagare: 16
 bilagor: []
 ---

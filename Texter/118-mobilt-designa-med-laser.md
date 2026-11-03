@@ -9,7 +9,7 @@ amnen: []
 teman: []
 nyckelord: []
 besokets_langd: 90 # cirka
-min_deltagare: null
+min_deltagare: 5
 max_deltagare: 100
 bilagor: []
 ---

@@ -21,7 +21,7 @@ nyckelord:
   - Logiskt tänkande
 besokets_langd: 90
 pedagogledd_tid: 75
-min_deltagare: null
+min_deltagare: 5
 max_deltagare: 30
 bilagor: []
 ---

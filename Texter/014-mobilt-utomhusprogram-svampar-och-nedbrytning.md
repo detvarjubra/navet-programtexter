@@ -23,6 +23,7 @@ nyckelord:
   - Kretslopp
   - Naturundersökningar
 besokets_langd: 60 # cirka
+min_deltagare: null
 max_deltagare: 100
 bilagor: []
 ---

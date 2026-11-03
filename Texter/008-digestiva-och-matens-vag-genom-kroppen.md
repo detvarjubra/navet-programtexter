@@ -22,6 +22,7 @@ nyckelord:
   - Djurs tänder
 besokets_langd: 75
 pedagogledd_tid: 60
+min_deltagare: null
 max_deltagare: 30
 bilagor: []
 ---

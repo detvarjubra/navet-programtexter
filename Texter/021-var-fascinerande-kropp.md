@@ -19,6 +19,7 @@ nyckelord:
   - Vita blodkroppar
   - Antikroppar
 besokets_langd: 90
+min_deltagare: null
 max_deltagare: 30
 bilagor: []
 ---

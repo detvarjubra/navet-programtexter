@@ -9,7 +9,7 @@ amnen: []
 teman: []
 nyckelord: []
 besokets_langd: 60
-min_deltagare: 5
+min_deltagare: null
 max_deltagare: 100
 bilagor: []
 ---

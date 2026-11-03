@@ -5,11 +5,23 @@ malgrupp:
   - ak_4
   - ak_5
   - ak_6
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - teknik
+  - matematik
+teman:
+  - programmering
+  - digital teknik
+nyckelord:
+  - Micro:bit
+  - Blockprogrammering
+  - SARA
+  - Sekvens
+  - Alternativ
+  - Repetition
+  - Abstraktion
+  - Lysdioder
 besokets_langd: 60
-min_deltagare: 5
+min_deltagare: null
 max_deltagare: 100
 bilagor: []
 ---

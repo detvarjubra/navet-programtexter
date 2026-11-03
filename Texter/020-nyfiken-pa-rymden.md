@@ -5,9 +5,22 @@ malgrupp:
   - ak_4
   - ak_5
   - ak_6
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - fysik
+  - astronomi
+teman:
+  - rymden
+  - solsystemet
+  - astronomins historia
+nyckelord:
+  - Solen
+  - Planeter
+  - Himlakroppar
+  - Årstider
+  - Dag och natt
+  - Jordens rörelser
+  - Rymdfart
+  - Universum
 besokets_langd: 90
 max_deltagare: 30
 ---
@@ -24,7 +37,18 @@ max_deltagare: 30
 
 ## Ny webbtext
 
+Varför har vi årstider? Hur rör sig planeterna runt solen? Och hur har människans bild av universum förändrats genom historien?
+
+I *Nyfiken på rymden* ger vi oss ut på en resa genom tid och rum. Genom en kort dramatisering utforskar vi hur människor har försökt förstå universum och hur vår kunskap om rymden har utvecklats.
+
+Eleverna får också utforska Navets rymdutställning Astronoma och prova aktiviteter som handlar om rymden och ljus.
+
+I Navets planetarium ger vi oss sedan ut på en rymdresa där vi får upptäcka vårt solsystem och dess himlakroppar.
+
+
 ## Ny planschtext
+
+Varför har vi årstider och hur rör sig planeterna? Följ med på en resa genom astronomins historia och vidare ut i solsystemet! Genom praktiska övningar och egna undersökningar utforskar vi universum och himlakropparnas rörelser.
 
 ## Befintlig planschtext
 

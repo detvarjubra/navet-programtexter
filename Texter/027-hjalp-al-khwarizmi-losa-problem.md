@@ -5,9 +5,18 @@ malgrupp:
   - ak_4
   - ak_5
   - ak_6
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - matematik
+teman:
+  - problemlösning
+  - matematiskt tänkande
+nyckelord:
+  - Problemlösningsstrategier
+  - Logiskt tänkande
+  - Matematiska resonemang
+  - Samarbete
+  - Bråk
+  - Matematikens historia
 besokets_langd: 90
 max_deltagare: 30
 ---
@@ -21,8 +30,16 @@ max_deltagare: 30
 ## Innehåll
 
 ## Ny webbtext
+Hur löser man ett problem när man inte vet var man ska börja? Och kan det finnas flera olika vägar till samma lösning?
+
+I *Hjälp al-Khwarizmi lösa problem* möter eleverna den historiske matematikern al-Khwarizmi, som har stött på ett riktigt klurigt problem. Som tur är dyker Leonardo da Vinci upp med några idéer – men de behöver också elevernas hjälp!
+
+Genom matematiska spel och praktiska utmaningar får eleverna tänka, resonera och prova olika lösningsstrategier. De arbetar tillsammans i par och får möta nya samarbetspartner under programmets gång.
+
+Här handlar matematik inte bara om att hitta rätt svar, utan också om att diskutera idéer, tänka på olika sätt och lösa problem tillsammans.
 
 ## Ny planschtext
+Vad har spel, strategi och matematik gemensamt? Tillsammans med den historiske matematikern al-Khwarizmi får eleverna lösa kluriga problem. Genom matematiska spel och samarbete tränar de logiskt tänkande och problemlösning.
 
 ## Befintlig planschtext
 

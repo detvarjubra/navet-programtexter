@@ -6,9 +6,18 @@ malgrupp:
   - ak_5
   - ak_6
   - sfi_vuxenutbildning
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - biologi
+teman:
+  - människokroppen
+  - hälsa
+nyckelord:
+  - Organsystem
+  - Sinnen
+  - Sjukdomar
+  - Immunförsvar
+  - Vita blodkroppar
+  - Antikroppar
 besokets_langd: 90
 max_deltagare: 30
 ---
@@ -16,15 +25,25 @@ max_deltagare: 30
 # Vår fascinerande kropp
 
 ## Praktisk information
-- Besöket är i vår utställning Humana som är belägen på våning 1.
-- Eleverna behåller skor på i entrén, men tar av sig skorna utanför Humana.
-- Eleverna sitter på en matta under vår inledning.
+- Programmet genomförs i Humana, Navets utställning om människokroppen på våning 1.
+- Eleverna behåller skorna på i entrén men tar av dem innan de går in i Humana.
+- Under introduktionen sitter eleverna på en matta.
 
 ## Innehåll
 
 ## Ny webbtext
 
+Hur vet en läkare vad som är fel när någon blir sjuk? Och hur samarbetar kroppens olika organ för att hålla oss friska?
+
+I *Vår fascinerande kropp* får eleverna besöka Navets egen läkarmottagning och hjälpa till att undersöka patienter. Genom frågor, observationer och olika undersökningar utforskar vi kroppens organsystem och hur de fungerar tillsammans.
+
+Därefter får eleverna själva upptäcka Navets utställning Humana. Genom praktiska experiment och aktiviteter undersöker de kroppens funktioner och våra sinnen.
+
+Vi avslutar med att utforska kroppens eget försvar mot sjukdomar. Hur kan kroppen känna igen och bekämpa virus?
+
 ## Ny planschtext
+
+Hur fungerar vår kropp och vad händer när vi blir sjuka? Besök Navets läkarmottagning och hjälp till att undersöka patienter! Vi utforskar kroppens system, våra sinnen och hur kroppen försvarar sig mot sjukdomar.
 
 ## Befintlig planschtext
 

@@ -6,9 +6,19 @@ malgrupp:
   - ak_1
   - ak_2
   - ak_3
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - matematik
+teman:
+  - matematiska begrepp
+  - problemlösning
+  - rörelse och lärande
+nyckelord:
+  - Ordningstal
+  - Bråk
+  - Geometriska former
+  - Multiplikation
+  - Utomhusmatematik
+  - Matematiska lekar
 besokets_langd: 60 # cirka
 max_deltagare: 100
 ---
@@ -25,7 +35,15 @@ max_deltagare: 100
 
 ## Ny webbtext
 
+I utomhusprogrammet _Matematik i rörelse: Lekar och utmaningar_ får eleverna öva på matematiska begrepp som ordningstal, bråk, former och multiplikation genom roliga och aktiva utomhuslekar. Innehållet anpassas utifrån elevernas ålder.
+
+Beroende på förutsättningar kan vi antingen genomföra programmet utomhus nära er skola eller på Navets Naturskola vid Ramshulan på Rya Åsar i Borås.
+
+Vi på Navet försöker träffa så många som möjligt, så ni behöver boka minst tre klasser efter varandra samma dag när vi kommer till er. Tiden för varje klass är ca 60 minuter.
+
 ## Ny planschtext
+
+Kan man lära sig matematik genom att springa, hoppa och leka? I Matematik i rörelse får eleverna utforska ordningstal, bråk, former och multiplikation genom aktiva utomhuslekar. Här får både kroppen och hjärnan arbeta tillsammans!
 
 ## Befintlig planschtext
 

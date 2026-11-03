@@ -5,9 +5,20 @@ malgrupp:
   - ak_4
   - ak_5
   - ak_6
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - matematik
+teman:
+  - skala
+  - mätning
+  - problemlösning
+nyckelord:
+  - Kartor
+  - Skala
+  - Avstånd
+  - Längdmätning
+  - Förminskning
+  - Proportioner
+  - Utomhusmatematik
 besokets_langd: 60 # cirka
 max_deltagare: 100
 ---
@@ -19,6 +30,7 @@ max_deltagare: 100
 ## Innehåll
 
 ## Ny webbtext
+Hur kan ett stort område få plats på en liten karta? I Skala ner får eleverna utforska skala genom att mäta, förminska och skapa egna kartor. Kan de sedan använda kartorna för att hitta något som en annan grupp har gömt?
 
 ## Ny planschtext
 

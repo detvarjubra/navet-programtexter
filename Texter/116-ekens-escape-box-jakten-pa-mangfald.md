@@ -26,6 +26,7 @@ bilagor: []
 ## Ny webbtext
 
 ## Ny planschtext
+Hur mycket liv ryms i en enda ek? Mer än du kanske tror! I Ekens escapebox väntar kluriga pussel för eleverna att lösa. Ett skolprogram om hur livet kring eken hänger samman och varför biologisk mångfald är så viktig.
 
 ## Befintlig planschtext
 

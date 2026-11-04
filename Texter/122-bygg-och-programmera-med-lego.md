@@ -89,7 +89,7 @@ Med hjälp av blockprogrammering och en färgsensor får eleverna upptäcka hur 
 Ett praktiskt skolprogram där konstruktion, programmering och samarbete står i centrum!
 
 ## Ny planschtext
-Leo behöver hjälp på savannen! Kan eleverna lösa hans problem med LEGO och programmering? Genom ett lekfullt uppdrag får de bygga och programmera ett eget sensorstyrt larm med ljud, ljus. Här möts kreativitet, teknik och samarbete!
+Leo behöver hjälp på savannen! Kan eleverna lösa hans problem med LEGO och programmering? Genom ett lekfullt uppdrag får de bygga och programmera ett eget sensorstyrt larm med ljus och ljud! 
 
 ## Befintlig planschtext
 

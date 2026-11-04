@@ -63,7 +63,7 @@ Tillsammans undersöker vi också månens faser och hur solen, jorden och månen
 Programmet avslutas med en rymdresa i Navets planetarium.
 
 ## Ny planschtext
-Varför ändrar månen form och hur lyckades människan ta sig dit? Tillsammans med Galileo Galilei utforskar vi solsystemet genom experiment och en rymdresa i Navets planetarium!
+Varför ändrar månen form och hur lyckades människan ta sig dit? Med Galileo Galileis hjälp utforskar vi solsystemet genom experiment och en rymdresa i Navets planetarium!
 
 ## Befintlig planschtext
 Välkomna på ett skolprogram som väcker nyfikenhet och fascination för vårt solsystem och våra närmsta himlakroppar.

@@ -7,9 +7,21 @@ malgrupp:
   - ak_9
   - gymnasiet
   - sfi_vuxenutbildning
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - fysik
+  - kemi
+teman:
+  - astronomi
+  - astrofysik
+  - universums utveckling
+nyckelord:
+  - stjärnornas livscykel
+  - grundämnen
+  - exoplaneter
+  - spektroskopi
+  - elektromagnetisk strålning
+  - kosmiska kretsloppet
+  - universums uppkomst
 besokets_langd: 60
 min_deltagare: 5
 max_deltagare: 30
@@ -29,6 +41,7 @@ bilagor: []
 ## Ny webbtext
 
 ## Ny planschtext
+Följ med på en rymdresa där eleverna utforskar stjärnornas livscykel, grundämnen och exoplaneter. Genom en guidad visning och experiment i Navets astronomiavdelning berör vi spektroskopi, elektromagnetisk strålning och vår koppling till det kosmiska kretsloppet.
 
 ## Befintlig planschtext
 

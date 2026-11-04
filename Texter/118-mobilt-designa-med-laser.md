@@ -51,7 +51,7 @@ Från idé och digital ritning till en färdig produkt får eleverna prova på e
 Inga förkunskaper krävs – bara nyfikenhet och lust att skapa!
 
 ## Ny planschtext
-Från digital idé till färdig produkt! Navet kommer till er skola med laserskärare och låter eleverna utforska digital slöjd. Med hjälp av ett designverktyg får de skapa egna föremål som laserskärs i trä – där kreativitet, teknik och skaparglädje möts.
+Från digital idé till färdig produkt! Navet tar med laserskärare till er skola låter eleverna utforska digital slöjd. Med ett designverktyg får eleverna skapa och sedan se hur deras idéer tar form när laserskäraren arbetar i trä. Resultatet blir en egen produkt att ta med hem!
 
 ## Befintlig planschtext
 

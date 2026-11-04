@@ -7,9 +7,24 @@ malgrupp:
   - ak_9
   - gymnasiet
   - sfi_vuxenutbildning
-amnen: []
-teman: []
-nyckelord: []
+amnen:
+  - biologi
+  - geografi
+  - samhällskunskap
+teman:
+  - hållbar utveckling
+  - Agenda 2030
+  - vatten och hållbarhet
+nyckelord:
+  - Globala målen
+  - Agenda 2030
+  - Vatten som resurs
+  - Vattenrening
+  - Klimatanpassning
+  - Hållbara vattenmiljöer
+  - Resursfördelning
+  - Hållbar konsumtion
+  - Miljö och samhälle
 besokets_langd: 75
 min_deltagare: 5
 max_deltagare: 30
@@ -27,6 +42,7 @@ bilagor: []
 ## Ny webbtext
 
 ## Ny planschtext
+Hur kan vi skapa en mer hållbar värld? I det här programmet utforskar eleverna Agenda 2030 och de 17 globala målen genom praktiska uppdrag och gemensamma diskussioner. Särskilt fokus ligger på vatten som livsviktig resurs, klimatanpassning och hållbara vattenmiljöer i Navets nya utställning Aqua.
 
 ## Befintlig planschtext
 

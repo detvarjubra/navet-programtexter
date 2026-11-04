@@ -35,6 +35,7 @@ bilagor: []
 Hur kan ett stort område få plats på en liten karta? I Skala ner får eleverna utforska skala genom att mäta, förminska och skapa egna kartor. Kan de sedan använda kartorna för att hitta något som en annan grupp har gömt?
 
 ## Ny planschtext
+Hur kan vi göra verkligheten mindre utan att tappa bort oss? I det här utomhusprogrammet får eleverna mäta, utforska skala och skapa egna kartor över ett område. Sedan väntar den stora utmaningen: att använda kartorna för att hitta gömda föremål. Håller kartorna måttet?
 
 ## Befintlig planschtext
 

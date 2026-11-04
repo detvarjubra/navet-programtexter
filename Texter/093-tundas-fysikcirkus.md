@@ -74,7 +74,7 @@ Sedan är det barnens tur! Genom lek och enkla experiment får de själva unders
 Äventyret utspelar sig i Navets utställning Upptecha, där barnen också får tid att utforska och upptäcka på egen hand.
 
 ## Ny planschtext
-Fladdermusen Tunda vill ordna en egen fysikcirkus, men vilka trick ska hon välja? Tillsammans med en clown får barnen upptäcka fysikens möjligheter. Genom lek och experiment med bland annat elektricitet och balans får de prova cirkuskonster och hjälpa Tunda att välja sina favoriter!
+Fladdermusen Tunda vill ordna en egen fysikcirkus, men vilka trick ska hon välja? Genom lek och experiment med bland annat statisk elektricitet och balans får de prova cirkuskonster och hjälpa Tunda att välja sina favoriter!
 
 ## Befintlig planschtext
 
